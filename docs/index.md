@@ -28,7 +28,7 @@ NeuroBuddy is a concept where each smartphone hosts a personality-based AI ("neu
 
 ## 📊 構想図 / Concept Diagram
 
-![NeuroBuddy Network Overview](./images/NeuroBuddy_Network_Overview.png)
+![NeuroBuddy Network Overview](../assets/NeuroBuddy_Network_Overview.png)
 
 **図解説明 / Diagram Description**  
 この図は、各端末が個別にAI人格を持ち、分散ストレージを介して知識共有しながら、全体として集合知へと進化する構造を表しています。
