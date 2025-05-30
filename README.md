@@ -23,22 +23,22 @@ NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じ
 ## 🎯 Intended Audience / 想定読者
 
 * Engineers, researchers, and educators interested in AI, IoT, and distributed systems
-  AI・IoT・分散システムに関心のあるエンジニア、研究者、教育関係者
+* AI・IoT・分散システムに関心のあるエンジニア、研究者、教育関係者
 * Explorers of ideas fascinated by futuristic visions and human-AI coexistence
-  SF的な未来像や人間との共生AIに関心を持つアイデア探索者
+* SF的な未来像や人間との共生AIに関心を持つアイデア探索者
 * Creative thinkers who prefer contributing at the conceptual stage rather than coding
-  実装ではなく構想段階から参加・議論したいクリエイティブ志向の読者
+* 実装ではなく構想段階から参加・議論したいクリエイティブ志向の読者
 
 ---
 
 ## 💡 Suggested Uses / 想定される用途
 
 * A base for reuse and derivative proposals of conceptual designs
-  コンセプトの再利用・派生提案の基礎素材として
+* コンセプトの再利用・派生提案の基礎素材として
 * A starting point for academic or research-oriented themes
-  学術・研究テーマのきっかけとして
+* 学術・研究テーマのきっかけとして
 * An inspiration source for sci-fi narratives and worldbuilding
-  SF的なシナリオや世界観のインスピレーション源として
+* SF的なシナリオや世界観のインスピレーション源として
 
 ---
 
