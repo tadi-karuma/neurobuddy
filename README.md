@@ -23,7 +23,7 @@ Each AI runs on a personal device, develops a unique personality, and collaborat
 
 ## 🌐 System Overview / システム全体像
 
-![System Diagram](./images/NeuroBuddy_Network_Overview.png)  
+![System Diagram](.assets/NeuroBuddy_Network_Overview.png)  
 **Figure: Overview of the NeuroBuddy distributed AI network**  
 **図：NeuroBuddy分散AIネットワークの全体像**
 
