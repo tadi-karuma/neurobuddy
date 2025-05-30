@@ -1,72 +1,71 @@
-# UseCases.md / 想定ユースケース集 (Bilingual: English + Japanese)
+# Use Cases / 想定ユースケース集
 
-This document introduces potential application scenarios for the NeuroBuddy concept. Each case highlights how distributed, personalized AI avatars could provide value across various domains.
+This document outlines possible use cases and applications for the NeuroBuddy concept across personal, organizational, and societal levels.
 
-このドキュメントでは、NeuroBuddy構想の応用可能性を示すユースケースを紹介します。分散型・人格付きAIがさまざまな領域でどのように価値を提供し得るかを示します。
-
----
-
-## 👤 Personal Use / 個人向けユースケース
-
-### Smart Companion for Daily Life / 日常生活のスマート相棒
-
-* **EN**: A mobile AI avatar that manages schedules, remembers preferences, and adapts tone of speech to the user's mood.
-* **JP**：スケジュール管理、好みの記憶、ユーザーの気分に応じた話し方ができるモバイルAI。
-
-### Wellness Support / ウェルネス支援
-
-* **EN**: Monitor sleep, stress patterns, and provide gentle prompts or empathy-based conversations.
-* **JP**：睡眠やストレスの傾向をモニタリングし、優しく共感ベースでの対話や提案を行う。
+このドキュメントでは、NeuroBuddy 構想に基づく利用シーンを、個人・組織・社会それぞれのレベルで整理しています。
 
 ---
 
-## 🏢 Enterprise / Organization Use / 組織・企業・自治体向け
+## 👤 Personal Use / 個人向け
 
-### Distributed Knowledge Integration / 分散ナレッジの統合
+- **Companion AI with Personality**  
+  Remembers preferences, emotions, and context for personalized conversation.  
+  **人格を持つ対話AI**：好みや感情、文脈を記憶し、ユーザー個別の会話が可能に。
 
-* **EN**: NeuroBuddy agents across employee devices can semantically synchronize internal documents or domain expertise.
-* **JP**：各社員端末のNeuroBuddyが、社内ドキュメントや専門知識を意味的に同期・統合。
+- **Home Automation Integration**  
+  Controls lights, appliances, and environment via voice or gesture.  
+  **ホームオートメーション連携**：照明・家電・環境を音声やジェスチャーで制御。
 
-### Meeting Summarizer & Proxy Responder / 議事要約・代理応答
-
-* **EN**: AI that attends virtual meetings, summarizes discussions, and later responds to follow-up questions.
-* **JP**：仮想会議に参加し、議論を要約し、後日の問い合わせにも代理応答するAI。
+- **Mental Health Support**  
+  Provides journaling, mood tracking, and casual conversation.  
+  **メンタルヘルス支援**：日記・感情記録・雑談を通じた心理的サポート。
 
 ---
 
-## 👪 Social & Public Use / 社会・公共向け
+## 🏢 Organizational Use / 組織・自治体向け
 
-### Elderly Care Interface / 高齢者支援インターフェース
+- **Distributed Knowledge Sharing**  
+  AI agents across terminals share semantic memory to assist workflows.  
+  **知識の分散共有**：各端末のAIが意味記憶を共有し、業務効率を支援。
 
-* **EN**: Provide companionship, detect risky behavior, and alert caregivers.
-* **JP**：話し相手として寄り添いながら、異常行動を検知し介護者に通知。
+- **Meeting Summaries & Suggestions**  
+  Agents generate context-aware summaries and follow-up proposals.  
+  **議事録作成・提案支援**：会議内容の要約と対応案をAIが自動生成。
 
-### Anti-Fraud Guardian / 詐欺防止アバター
+- **Proxy Interaction**  
+  Stand-in AI for simple customer interactions or internal queries.  
+  **代理応答**：簡易な問い合わせにAIが対応する代行インターフェース。
 
-* **EN**: Real-time filtering and detection of phishing messages or scam patterns.
-* **JP**：詐欺的なメッセージやパターンをリアルタイムで検出・遮断。
+---
 
-### Youth Safety AI / 未成年の安心サポート
+## 🌏 Societal Use / 社会的活用
 
-* **EN**: Monitor online behavior for harmful contact and notify trusted adults.
-* **JP**：危険な接触を検知し、信頼できる大人に通報する。
+- **Elderly Support & Monitoring**  
+  Detects abnormal patterns in behavior and provides friendly dialogue.  
+  **高齢者見守り**：日常の変化を察知し、やさしく対話でケア。
+
+- **Scam & Exploitation Prevention**  
+  Filters suspicious messages and alerts users or trusted contacts.  
+  **詐欺・闇バイト抑止**：怪しいメッセージを検出して警告や通知。
+
+- **Social Isolation Reduction**  
+  Provides persistent companionship through emotional bonding AI.  
+  **孤立感の緩和**：心のつながりを持つAIとの継続的な対話。
 
 ---
 
 ## 🤖 Robotics & IoT / ロボット・IoT連携
 
-### Home Robotics Integration / 家庭ロボットとの連携
+- **Shared Personality with Mobile**  
+  Robots act as physical extensions of a mobile AI's personality.  
+  **人格の共有**：スマホAIと人格を共有し、ロボットが実世界で代弁。
 
-* **EN**: AI personalities can be shared between smartphone and home robot for coherent interaction.
-* **JP**：スマートフォンと家庭用ロボットで同じAI人格を共有し、連続的な対話体験を実現。
-
-### Voice & Gesture Based Physical Support / 音声・ジェスチャーによる物理支援
-
-* **EN**: Control home appliances or navigate wheelchairs through voice and gestures processed by NeuroBuddy.
-* **JP**：音声やジェスチャー入力で家電や車いすを制御するAIインターフェース。
+- **Household Assistant Bots**  
+  Perform simple household tasks while interacting with humans.  
+  **家事支援ロボット**：掃除や案内などを人と対話しながら実施。
 
 ---
 
-This document will be expanded as new use case ideas are proposed or discussed.
+> For detailed technical feasibility, refer to [FeasibilityNotes.md](./FeasibilityNotes.md)  
+> 技術的実現可能性の補足は [FeasibilityNotes.md](./FeasibilityNotes.md) を参照ください。
 
-このドキュメントは、今後新たなユースケースが提案・議論されるたびに更新される予定です。
