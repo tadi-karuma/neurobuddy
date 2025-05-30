@@ -78,7 +78,7 @@ README や SUMMARY からリンクでこの補足ファイルにアクセスで�
 
 ---
 
-## 🧠 Final Vision / ドラえもん構想が「荒唐無稽」でない理由
+## 🧠 Final Vision / 自動人形構想が「荒唐無稽」でない理由
 
 * **Reason**: All necessary technological components (NLP, semantic memory, distributed systems, behavioral generation, interactive UI) already exist.
 * **理由**：必要な技術要素（自然言語処理、意味記憶構造、分散連携、行動生成、対話型UIなど）はすでに全て存在しており、組み合わせと制御の工夫で構成可能。
