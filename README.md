@@ -96,9 +96,3 @@ This concept is licensed under [Creative Commons Attribution 4.0 International (
 ---
 
 **For full details, see `SUMMARY.md` and `SUMMARY_ja.md`.**
-
-この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
-
----
-
-**For full details, see `SUMMARY.md` and `SUMMARY_ja.md`.**
