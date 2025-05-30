@@ -10,31 +10,37 @@
 
 ---
 
-## 🌐 Overview / 概要
+## 🚀 What is NeuroBuddy? / NeuroBuddyとは？
 
-NeuroBuddy is a concept for an AI network in which each device hosts a unique personality, sharing "semantic memory" through distributed storage. Each AI grows independently through interaction, contributing to a collective intelligence.
+**A vision of evolving AI avatars across devices, growing through user interaction, and connected via shared semantic memory.**  
+**ユーザーとの対話を通じて成長し、意味記憶を通じて連携する、分散型AIアバターの構想です。**
 
-NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じて「意味記憶」を共有するAIネットワークの構想です。各AIはユーザーとの対話を通じて独立して成長し、集合知としての知性を形成します。
+Each AI runs on a personal device, develops a unique personality, and collaborates in a distributed network — ultimately aiming to become a trusted intelligence that grows with humans.  
+各AIは個別端末で人格を持って成長しながら、分散ネットワーク内で知識共有・協調を行い、  
+最終的には「人と共に育つ知性体」へと進化することを目指します。
 
-## 🧠 System Overview Diagram / システム構想図
+---
 
-Below is a visual representation of how NeuroBuddy agents operate independently while contributing to a shared semantic memory, forming a collective intelligence.
+## 🌐 System Overview / システム全体像
 
-NeuroBuddyの構成要素（端末・人格AI・意味記憶・ネットワーク・社会連携）を視覚化した全体像です：
+![System Diagram](./images/NeuroBuddy_Network_Overview.png)  
+**Figure: Overview of the NeuroBuddy distributed AI network**  
+**図：NeuroBuddy分散AIネットワークの全体像**
 
-![NeuroBuddy Network Overview](./assets/NeuroBuddy_Network_Overview.png)
+---
 
-**Diagram: NeuroBuddy Network Overview**  
-This illustration shows a conceptual architecture where each user device hosts a unique AI personality. These AIs grow independently and share semantic memory through distributed storage, gradually forming a decentralized collective intelligence.  
-**図解：NeuroBuddy ネットワーク構成図**  
-各ユーザー端末に独立した人格AIが存在し、分散ストレージを通じて意味記憶を共有することで、最終的に分散型の集合知を形成していくという構想を表現しています。
+## 🔁 Evolution Phases / 進化フェーズ
+
+![Evolution Phases Diagram](./images/NeuroBuddy_Evolution_Phases.png)  
+**Figure: Evolution from basic AI avatars to collective intelligence**  
+**図：単体アバターから集合知への進化段階**
 
 ---
 
 ## 🎯 Intended Audience / 想定読者
 
 * Engineers, researchers, and educators interested in AI, IoT, and distributed systems  
-  AI・IoT・分散システムに関心のあるエンジニア、研究者、教育関係者  
+　AI・IoT・分散システムに関心のあるエンジニア、研究者、教育関係者  
 * Explorers of ideas fascinated by futuristic visions and human-AI coexistence  
   SF的な未来像や人間との共生AIに関心を持つアイデア探索者  
 * Creative thinkers who prefer contributing at the conceptual stage rather than coding  
@@ -52,26 +58,16 @@ This illustration shows a conceptual architecture where each user device hosts a
   SF的なシナリオや世界観のインスピレーション源として  
 
 ---
-## 🧬 Phase Evolution Flow / フェーズ別進化図
 
-Below is a visual roadmap showing how NeuroBuddy evolves from a simple conversational agent to a networked, semantically-aware AI intelligence. A symbolic robot-to-human icon progression illustrates increasing complexity and social capability.
+## 📄 Documents / ドキュメント一覧
 
-以下は、NeuroBuddyが単なる会話エージェントから、意味記憶を持つ知性ネットワークへと進化していく過程を表した図解です。左のブリキロボットから右の人型AIへと、段階的に「個性」「知識」「社会性」が成長していく様子を象徴的に示しています。
+* [📘 English Summary (概要英語)](./SUMMARY.md)  
+* [📙 日本語サマリー](./SUMMARY_ja.md)  
+* [🧠 Feasibility Notes / 実現補足解説](./FeasibilityNotes.md)  
+* [📚 Glossary / 用語解説](./Glossary.md)  
+* [🚧 Risks & Challenges / 想定される課題とリスク](./RisksAndChallenges.md)  
+* [💡 Use Cases / 想定ユースケース](./UseCases.md)  
 
-![NeuroBuddy Phase Evolution](./assets/phase_evolution_diagram.png)
-
-## 📄 Full Concept Summary / 構想の詳細ドキュメント
-* [English Summary](./SUMMARY.md)  
-* [日本語サマリー](./SUMMARY_ja.md)  
-* [Feasibility Notes (補足・実現可能性)](./FeasibilityNotes.md)  
-* [Glossary (用語解説)](./Glossary.md)  
-* [Challenges & Risks (想定される課題とリスク)](./Challenges_and_Risks.md)
----
-  
-## 📘 Use Case Examples / 想定ユースケース集
-
-* [UseCases.md](./UseCases.md) — Real-world applications and usage scenarios of the NeuroBuddy concept.  
-  NeuroBuddy構想の実用的な応用・利用シーンをまとめたドキュメントです。
 ---
 
 ## 💬 Join the Discussion / 議論に参加する
