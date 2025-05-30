@@ -1,4 +1,4 @@
-# NeuroBuddy / ニューロバディ - ドラえもん構想
+# NeuroBuddy / ニューロバディ - 自動人形構想
 
 > 🧠 **This repository presents a conceptual AI system proposal.**  
 > There is no implementation included or planned.  
@@ -16,6 +16,13 @@ NeuroBuddy is a concept for an AI network in which each device hosts a unique pe
 
 NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じて「意味記憶」を共有するAIネットワークの構想です。各AIはユーザーとの対話を通じて独立して成長し、集合知としての知性を形成します。
 
+## 🧠 System Overview Diagram / システム構想図
+
+Below is a visual representation of how NeuroBuddy agents operate independently while contributing to a shared semantic memory, forming a collective intelligence.
+
+NeuroBuddyの構成要素（端末・人格AI・意味記憶・ネットワーク・社会連携）を視覚化した全体像です：
+
+![NeuroBuddy Network Overview](./assets/NeuroBuddy_Network_Overview.png)
 ---
 
 ## 🎯 Intended Audience / 想定読者
