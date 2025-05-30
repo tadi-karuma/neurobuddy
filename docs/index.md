@@ -8,7 +8,7 @@
 
 ## 🌐 概要 / Overview
 
-**NeuroBuddy** は、スマートフォンやデバイスを「1ニューロン」と見立て、それぞれに人格AIを持たせて成長させ、分散ネットワークで意味記憶を共有するという構想です。最終的には、人間と共に進化する集合知的AI「ドラえもん構想」へと発展することを想定しています。
+**NeuroBuddy** は、スマートフォンやデバイスを「1ニューロン」と見立て、それぞれに人格AIを持たせて成長させ、分散ネットワークで意味記憶を共有するという構想です。最終的には、人間と共に進化する集合知的AI「自動人形構想」へと発展することを想定しています。
 
 NeuroBuddy is a concept where each smartphone hosts a personality-based AI ("neuron") that grows through user interaction and shares semantic memory across a distributed network — evolving toward a collective intelligence that lives alongside humanity.
 
