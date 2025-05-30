@@ -59,4 +59,8 @@ This is a conceptual proposal only. The author has no intention of implementatio
 
 ---
 
+👉 [View README.md](../README.md) 
+
+---
+
 This concept is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
