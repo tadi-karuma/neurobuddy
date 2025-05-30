@@ -57,8 +57,6 @@ This is a conceptual proposal only. The author has no intention of implementatio
 
 📘 [Feasibility supplement available → FeasibilityNotes.md](./FeasibilityNotes.md)
 
----
-
 👉 [View README.md](../README.md) 
 
 ---
