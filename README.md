@@ -1,14 +1,12 @@
 # NeuroBuddy / ニューロバディ
 
-> ⚠️ **This is a conceptual proposal, not an implementation.**  
+> 🧠 **This is a conceptual proposal, not an implementation.**  
 > NeuroBuddy presents a vision for a distributed, evolving AI avatar system.  
-> I hope this inspires developers, researchers, and futurists.  
+> This repository exists only to share the idea. No code will be written by the author.  
 >
-> ⚠️ **これは構想提案であり、実装されたプロジェクトではありません。**  
-> NeuroBuddyは分散・成長型のAIアバターというビジョンを提示するものであり、技術者や研究者の方に拾っていただけたら幸いです。
-
-**EN:** NeuroBuddy is a conceptual framework for a distributed, evolving AI avatar system where each smartphone acts as a neuron.  
-**JP:** NeuroBuddyは、スマートフォン1台を1ニューロンと見立て、ユーザーとの会話と経験を通じて人格を成長させるAIアバター構想です。
+> 🧠 **これは構想提案であり、実装プロジェクトではありません。**  
+> NeuroBuddyは分散・成長型AIアバターの未来像を示す構想です。  
+> このリポジトリはそのアイデアを公開するためのものであり、提案者がコードを書く予定は一切ありません。
 
 ---
 
@@ -22,34 +20,34 @@ Each AI agent learns individually but shares semantic memory through distributed
 
 ---
 
-## 🚀 Features / 主な特徴
+## 🚀 Vision / ビジョン
 
 - 🧠 **EN:** Individual personality AI per device  
   **JP:** 各端末に人格AIを搭載
 - 🔁 **EN:** Shared semantic memory  
   **JP:** 意味記憶の共有
 - 🔧 **EN:** Modular extensions (camera, translator, scheduler)  
-  **JP:** 機能モジュールによる拡張（カメラ・翻訳・予定管理など）
-- 🔐 **EN:** Immune-inspired behavioral security  
-  **JP:** 免疫モデル型セキュリティで異常行動を検知
-- 🛡️ **EN:** Social harm prevention (scams, exploitation, youth/elder protection)  
-  **JP:** 詐欺・闇バイト・未成年/高齢者保護
+  **JP:** モジュールによる機能拡張（カメラ・翻訳・予定管理など）
+- 🔐 **EN:** Immunity-inspired behavioral security  
+  **JP:** 異常行動検知型の免疫セキュリティ
+- 🛡️ **EN:** Reducing societal harm (scams, exploitation)  
+  **JP:** 社会問題（詐欺や闇バイト等）の抑止力に
 
 ---
 
-## 🤖 Future Scope / 将来展望
+## 🤖 Long-term Possibilities / 将来的展望
 
 **EN:**  
-Potential use as a robot's mind or universal assistant OS. Targeting collaborative AI evolution.
+This concept may evolve into a distributed AI assistant OS, a robot control brain, or a secure social interface.
 
 **JP:**  
-将来的にはロボットのOSやあらゆるデバイスの頭脳として機能することも視野に。協調・自律進化型AIを目指します。
+将来的には分散AIアシスタントOS、ロボット制御脳、セキュアな社会的インターフェースになる可能性もあります。
 
 ---
 
 ## 🧾 License / ライセンス
 
-This proposal is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+This concept is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
 
 ---
