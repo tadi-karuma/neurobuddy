@@ -22,40 +22,57 @@ This concept explores AI agents installed on each personal device, each evolving
 
 NeuroBuddy は次のような既存の技術分野と関連します：
 
-- 分散知能・スウォームAI・クラウドAIの中間的モデル
-- 意味記憶共有を用いたナレッジベースと自然対話の統合
-- セキュリティや倫理問題を考慮した「人格付きAI」の方向性
-- 「ドラえもん構想」：人と共に育つ、伴走型の知性体
+- 分散知能・スウォームAI・クラウドAIの中間的モデル  
+  A hybrid model between distributed intelligence, swarm AI, and cloud AI
+- 意味記憶共有を用いたナレッジベースと自然対話の統合  
+  Integration of semantic memory with knowledge bases and natural conversation
+- セキュリティや倫理問題を考慮した「人格付きAI」の方向性  
+  Personality-based AI with attention to ethics and security
+- 「ドラえもん構想」：人と共に育つ、伴走型の知性体  
+  The “Doraemon Concept”: an AI companion that grows with the user
 
 ---
 
 ## 🚀 Example Use Cases / 想定ユースケース
 
-### 👤 個人向け
-- 自分専用の人格AI（記憶・感情・雑談・予定管理など）
-- 家電や照明、住環境の制御（IoT連携）
+### 👤 個人向け / For Individuals
+- 自分専用の人格AI（記憶・感情・雑談・予定管理など）  
+  Personalized AI agent with memory, emotion, chatting, and scheduling
+- 家電や照明、住環境の制御（IoT連携）  
+  Control of home appliances, lighting, and environment via IoT
 
-### 🏢 組織・自治体向け
-- 各端末のナレッジを意味的に連携し、業務効率化
-- 分散した記録からの提案・議事要約・代理応答
+### 🏢 組織・自治体向け / For Organizations & Government
+- 各端末のナレッジを意味的に連携し、業務効率化  
+  Semantic knowledge coordination between devices to improve workflows
+- 分散した記録からの提案・議事要約・代理応答  
+  Proposal generation, summarization, and response from distributed logs
 
-### 🌏 社会的活用
-- 高齢者や若年層の見守り、特殊詐欺防止の対話インターフェース
-- 社会的孤立の緩和、情報ナビゲーターとしての支援
+### 🌏 社会的活用 / Societal Applications
+- 高齢者や若年層の見守り、特殊詐欺防止の対話インターフェース  
+  Conversation interface for elder care and fraud prevention
+- 社会的孤立の緩和、情報ナビゲーターとしての支援  
+  Support to reduce social isolation and navigate public information
 
-### 🤖 将来：ロボットOSや知性体として
-- ロボットに人格を与え、学習・行動・社会的ふるまいを一貫化
-- 集団でのタスク遂行や行動計画（物理支援含む）
+### 🤖 将来：ロボットOSや知性体として / Future: Robot OS and Intelligent Beings
+- ロボットに人格を与え、学習・行動・社会的ふるまいを一貫化  
+  Robots with personalities for consistent learning, behavior, and interaction
+- 集団でのタスク遂行や行動計画（物理支援含む）  
+  Coordinated task execution including physical assistance
 
 ---
 
-## 🛡️ 特徴的な発想
+## 🛡️ 特徴的な発想 / Unique Features
 
-- 🧠 各端末に独立した人格AI
-- 🧬 分散型意味記憶の共有
-- 🛡️ 免疫機能モデルによるセキュリティ（異常行動検知）
-- 🤝 成長履歴とユーザーの育て方で性格が変わる
-- 📉 社会問題（詐欺・闇バイト等）抑止の副次効果
+- 🧠 各端末に独立した人格AI  
+  Each device runs an independent AI personality
+- 🧬 分散型意味記憶の共有  
+  Semantic memory is shared through decentralized systems
+- 🛡️ 免疫機能モデルによるセキュリティ（異常行動検知）  
+  Immune-inspired anomaly detection for security
+- 🤝 成長履歴とユーザーの育て方で性格が変わる  
+  Personality evolves based on user interaction and history
+- 📉 社会問題（詐欺・闇バイト等）抑止の副次効果  
+  Potential to reduce social issues like scams and black-market jobs
 
 ---
 
@@ -65,11 +82,21 @@ NeuroBuddy は次のような既存の技術分野と関連します：
 「マンガやアニメのアンドロイドの相棒を実現する具体的な方法を考察してみよう」  
 このアイデアが誰かの創造のヒントになれば幸いです。
 
+This idea started from a simple thought:  
+"How might we actually realize the android companions from manga and anime?"  
+I hope this idea becomes a source of inspiration for creators and researchers.
+
 ---
 
 ## 🧾 License / ライセンス
 
 This concept is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
+
+---
+
+**For full details, see `SUMMARY.md` and `SUMMARY_ja.md`.**
+
 この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
 
 ---
