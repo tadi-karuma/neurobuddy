@@ -1,68 +1,118 @@
-# Glossary / 用語解説（NeuroBuddy 構想）
+# Glossary / 用語解説
 
-本ドキュメントは、NeuroBuddy 構想に登場する主要な用語・概念を、英語と日本語の併記で解説するものです。
+This file defines key terms used throughout the NeuroBuddy conceptual proposal. Each term includes an English and Japanese explanation to aid bilingual understanding.
 
----
-
-### 🧠 NeuroBuddy（ニューロバディ）
-
-* **EN**: An AI avatar assigned to each personal device. It evolves independently through interaction with the user.
-* **JP**: 各端末に割り当てられる人格AIアバター。ユーザーとの対話を通じて独自に成長する。
+このファイルでは、NeuroBuddy 構想提案で使用される主要な用語を解説します。英語と日本語の両方で表記し、バイリンガルでの理解を支援します。
 
 ---
 
-### 🧬 Semantic Memory（意味記憶）
+### Semantic Memory / 意味記憶
 
-* **EN**: Shared knowledge and concepts stored across all AI avatars. Allows agents to collaborate using a common understanding.
-* **JP**: すべてのAIが共有する知識や概念の記憶。共通理解に基づいた協調を可能にする。
+A shared form of conceptual or associative knowledge among agents. In AI, it often refers to vectorized representations of knowledge that support context-aware reasoning.
 
----
-
-### 🌐 Distributed Intelligence（分散知能）
-
-* **EN**: Intelligence that emerges from multiple autonomous agents interacting and sharing memory over a network.
-* **JP**: 複数の自律的なAIがネットワークを介して連携・記憶共有することで生まれる知能。
+エージェント間で共有される概念的・連想的な知識。AIでは、意味の類似性に基づいてベクトル化された知識構造を指すことが多い。
 
 ---
 
-### 🧩 Modular Architecture（モジュール構成）
+### Vector Database / ベクトルデータベース
 
-* **EN**: A design where AI functionality (e.g., translation, vision) is provided through add-on modules.
-* **JP**: 翻訳・画像認識などの機能を後から追加できる構造。柔軟な拡張が可能。
+A type of database that stores information as vectors to support similarity-based semantic search. Used in semantic memory sharing.
 
----
-
-### 🛡️ Immune Security Model（免疫モデル型セキュリティ）
-
-* **EN**: A security model where AI learns normal behavior and detects anomalies, similar to biological immunity.
-* **JP**: 生体の免疫系のように、通常行動を学習し、異常を検知するセキュリティモデル。
+情報をベクトル形式で保存し、意味的類似性に基づく検索を可能にするデータベース。意味記憶共有に利用される。
 
 ---
 
-### 🤖 Doraemon Concept（ドラえもん構想）
+### IPFS (InterPlanetary File System) / 分散型ファイル共有システム
 
-* **EN**: The ultimate vision of a lifelong AI companion that grows with humans and offers both emotional and practical support.
-* **JP**: 人と共に育ち、感情面・実用面の両方で寄り添うAIパートナーという最終像。
+A decentralized file system based on content addressing. Useful for storing and sharing semantic data without centralized servers.
 
----
-
-### 🗣️ Conversational Avatar（会話型アバター）
-
-* **EN**: An AI persona capable of natural language interaction with a human user.
-* **JP**: 自然言語でユーザーと対話可能な人格型AI。
+コンテンツアドレス型の分散ファイルシステム。意味記憶などの分散知識を共有する際に有効。
 
 ---
 
-### 📡 Vector Database（ベクトルデータベース）
+### Personality AI / 人格AI
 
-* **EN**: A database optimized to store and search high-dimensional embeddings used in AI semantic understanding.
-* **JP**: 意味理解のための高次元ベクトルを保存・検索できるAI向けデータベース。
+An AI that retains behavioral patterns unique to a user or history, simulating a “personality.”
+
+個別のユーザーとのやり取りや履歴に基づき、固有の反応や性格を持つように振る舞うAI。
+
+---
+
+### LLM (Large Language Model) / 大規模言語モデル
+
+AI models trained on vast corpora of text, enabling them to generate human-like text. Examples: ChatGPT, Claude, Gemini.
+
+大量のテキストから学習した自然言語生成AI。ChatGPTやClaude、Geminiなどが代表例。
 
 ---
 
-### 🧭 Co-evolution（共進化）
+### RLHF (Reinforcement Learning from Human Feedback) / 人間からの強化学習
 
-* **EN**: The concept that humans and AI evolve together by mutually influencing learning and behavior.
-* **JP**: 人間とAIが相互に学び合いながら成長していくという考え方。
+A method to align AI behavior with human values by incorporating human feedback during training.
+
+人間のフィードバックを学習に取り入れて、AIの出力や振る舞いを調整する手法。
 
 ---
+
+### Swarm Intelligence / 群知能
+
+Decentralized intelligence that emerges from interactions among multiple simple agents.
+
+複数の単純なエージェント間の相互作用によって生まれる分散型知性。
+
+---
+
+### Anomaly Detection / 異常検知
+
+A machine learning approach to identify deviations from normal behavior. Core to NeuroBuddy’s security layer.
+
+通常パターンから逸脱する挙動を検出する機械学習の応用。構想におけるセキュリティ要素の中核。
+
+---
+
+### Containerization / コンテナ化
+
+Packaging software into isolated environments for deployment across devices or clouds.
+
+ソフトウェアを移植性の高い単位でまとめる技術。AI人格をスマホとロボット間で共有する際に活用可能。
+
+---
+
+### Multi-Agent System / マルチエージェントシステム
+
+A system in which multiple AI agents operate and interact autonomously to achieve goals.
+
+複数の自律エージェントが協調して動作し、目的を達成するシステム構成。
+
+---
+
+### Privacy-Preserving AI / 匿名性確保型AI
+
+Technologies and frameworks that allow AI to operate without compromising user privacy.
+
+ユーザーのプライバシーを保ちつつAIが機能するための技術や枠組み。
+
+---
+
+### Prompt Engineering / プロンプト設計
+
+The practice of crafting effective prompts for LLMs to guide their responses.
+
+LLMに対して適切な出力を得るための指示文（プロンプト）を設計する技術。
+
+---
+
+### WebAssembly / ウェブアセンブリ
+
+A portable binary instruction format for web-based applications. Can enable efficient module expansion in the NeuroBuddy system.
+
+Web環境で高速に動作するバイナリ形式。モジュールの追加に適している。
+
+---
+
+### gRPC / Remote Procedure Call
+
+A communication protocol for efficiently connecting distributed services, suitable for agent and module communication.
+
+分散サービス同士の通信を効率的に行うためのプロトコル。NeuroBuddy構成モジュール間の連携に適する。
+
