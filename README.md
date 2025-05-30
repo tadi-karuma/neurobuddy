@@ -52,8 +52,6 @@ This illustration shows a conceptual architecture where each user device hosts a
   SF的なシナリオや世界観のインスピレーション源として  
 
 ---
-
-## 📄 Full Concept Summary / 構想の詳細ドキュメント
 ## 🧬 Phase Evolution Flow / フェーズ別進化図
 
 Below is a visual roadmap showing how NeuroBuddy evolves from a simple conversational agent to a networked, semantically-aware AI intelligence. A symbolic robot-to-human icon progression illustrates increasing complexity and social capability.
@@ -62,6 +60,7 @@ Below is a visual roadmap showing how NeuroBuddy evolves from a simple conversat
 
 ![NeuroBuddy Phase Evolution](./assets/phase_evolution_diagram.png)
 
+## 📄 Full Concept Summary / 構想の詳細ドキュメント
 * [English Summary](./SUMMARY.md)  
 * [日本語サマリー](./SUMMARY_ja.md)  
 * [Feasibility Notes (補足・実現可能性)](./FeasibilityNotes.md)  
