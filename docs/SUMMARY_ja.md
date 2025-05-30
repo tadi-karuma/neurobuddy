@@ -57,7 +57,6 @@ NeuroBuddyは、スマートフォン1台を1ニューロンと見立て、ユ�
 
 📘 [実現可能性の補足解説を見る → FeasibilityNotes.md](./FeasibilityNotes.md)
 
----
 
 👉 [View README.md](../README.md) 
 
