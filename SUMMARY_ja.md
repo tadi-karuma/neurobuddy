@@ -15,6 +15,8 @@ NeuroBuddyは、スマートフォン1台を1ニューロンと見立て、ユ�
 * 詐欺・闇バイト等の社会問題抑止
 * 目指す最終形：「ドラえもん構想」あるいは「自動人形構想」
 
+---
+
 ## 🔧 想定される発展フェーズ
 
 1. 会話型アバター（大規模言語モデルベース）
@@ -53,5 +55,8 @@ NeuroBuddyは、スマートフォン1台を1ニューロンと見立て、ユ�
 
 ---
 
-この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
+📘 [実現可能性の補足解説を見る → FeasibilityNotes.md](./FeasibilityNotes.md)
 
+---
+
+この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
