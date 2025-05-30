@@ -60,7 +60,14 @@ This illustration shows a conceptual architecture where each user device hosts a
 * [Feasibility Notes (補足・実現可能性)](./FeasibilityNotes.md)  
 * [Glossary (用語解説)](./Glossary.md)  
 * [Challenges & Risks (想定される課題とリスク)](./Challenges_and_Risks.md)
+  
+## 🧬 Phase Evolution Flow / フェーズ別進化図
 
+Below is a visual roadmap showing how NeuroBuddy evolves from a simple conversational agent to a networked, semantically-aware AI intelligence. A symbolic robot-to-human icon progression illustrates increasing complexity and social capability.
+
+以下は、NeuroBuddyが単なる会話エージェントから、意味記憶を持つ知性ネットワークへと進化していく過程を表した図解です。左のブリキロボットから右の人型AIへと、段階的に「個性」「知識」「社会性」が成長していく様子を象徴的に示しています。
+
+![NeuroBuddy Phase Evolution](./assets/phase_evolution_diagram.png)
 ---
 
 ## 💬 Join the Discussion / 議論に参加する
