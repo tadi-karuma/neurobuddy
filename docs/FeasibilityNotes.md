@@ -8,7 +8,7 @@ Its purpose is to enhance the credibility and realism of the conceptual proposal
 
 README や SUMMARY からリンクでこの補足ファイルにアクセスできるようにし、構想提案の信頼性と現実味を高めることを目的としています。
 
-👉 [View README.md](./README.md) ｜ [View SUMMARY.md (English)](./SUMMARY.md) ｜ [日本語サマリーはこちら](./SUMMARY_ja.md)
+👉 [View README.md](../README.md) ｜ [View SUMMARY.md (English)](./SUMMARY.md) ｜ [日本語サマリーはこちら](./SUMMARY_ja.md)
 
 ---
 
