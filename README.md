@@ -23,11 +23,11 @@ NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じ
 ## 🎯 Intended Audience / 想定読者
 
 * Engineers, researchers, and educators interested in AI, IoT, and distributed systems  
-　AI・IoT・分散システムに関心のあるエンジニア、研究者、教育関係者  
+  AI・IoT・分散システムに関心のあるエンジニア、研究者、教育関係者  
 * Explorers of ideas fascinated by futuristic visions and human-AI coexistence  
   SF的な未来像や人間との共生AIに関心を持つアイデア探索者  
 * Creative thinkers who prefer contributing at the conceptual stage rather than coding  
-  実装ではなく構想段階から参加・議論したいクリエイティブ志向の読者
+  実装ではなく構想段階から参加・議論したいクリエイティブ志向の読者  
 
 ---
 
@@ -38,7 +38,7 @@ NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じ
 * A starting point for academic or research-oriented themes  
   学術・研究テーマのきっかけとして  
 * An inspiration source for sci-fi narratives and worldbuilding  
-  SF的なシナリオや世界観のインスピレーション源として
+  SF的なシナリオや世界観のインスピレーション源として  
 
 ---
 
@@ -46,7 +46,9 @@ NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じ
 
 * [English Summary](./SUMMARY.md)  
 * [日本語サマリー](./SUMMARY_ja.md)  
-* [Feasibility Notes / 実現可能性の補足解説](./FeasibilityNotes.md)
+* [Feasibility Notes (補足・実現可能性)](./FeasibilityNotes.md)  
+* [Glossary (用語解説)](./Glossary.md)  
+* [Challenges & Risks (想定される課題とリスク)](./Challenges_and_Risks.md)
 
 ---
 
@@ -63,4 +65,5 @@ Have thoughts or extensions? Please join the discussion here:
 
 This concept is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
+
 
