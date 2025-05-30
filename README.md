@@ -61,12 +61,12 @@ Each AI runs on a personal device, develops a unique personality, and collaborat
 
 ## 📄 Documents / ドキュメント一覧
 
-* [📘 English Summary (概要英語)](./SUMMARY.md)  
-* [📙 日本語サマリー](./SUMMARY_ja.md)  
-* [🧠 Feasibility Notes / 実現補足解説](./FeasibilityNotes.md)  
-* [📚 Glossary / 用語解説](./Glossary.md)  
-* [🚧 Risks & Challenges / 想定される課題とリスク](./RisksAndChallenges.md)  
-* [💡 Use Cases / 想定ユースケース](./UseCases.md)  
+* [📘 English Summary (概要英語)](./docs/SUMMARY.md)  
+* [📙 日本語サマリー](./docs/SUMMARY_ja.md)  
+* [🧠 Feasibility Notes / 実現補足解説](./docs/FeasibilityNotes.md)  
+* [📚 Glossary / 用語解説](./docs/Glossary.md)  
+* [🚧 Risks & Challenges / 想定される課題とリスク](./docs/RisksAndChallenges.md)  
+* [💡 Use Cases / 想定ユースケース](./docs/UseCases.md)  
 
 ---
 
