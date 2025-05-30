@@ -23,6 +23,12 @@ Below is a visual representation of how NeuroBuddy agents operate independently 
 NeuroBuddyの構成要素（端末・人格AI・意味記憶・ネットワーク・社会連携）を視覚化した全体像です：
 
 ![NeuroBuddy Network Overview](./assets/NeuroBuddy_Network_Overview.png)
+
+**Diagram: NeuroBuddy Network Overview**  
+This illustration shows a conceptual architecture where each user device hosts a unique AI personality. These AIs grow independently and share semantic memory through distributed storage, gradually forming a decentralized collective intelligence.  
+**図解：NeuroBuddy ネットワーク構成図**  
+各ユーザー端末に独立した人格AIが存在し、分散ストレージを通じて意味記憶を共有することで、最終的に分散型の集合知を形成していくという構想を表現しています。
+
 ---
 
 ## 🎯 Intended Audience / 想定読者
