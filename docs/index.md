@@ -39,7 +39,7 @@ This diagram illustrates how each device runs its own personality AI, shares sem
 
 ## 🧠 進化フェーズ / Evolution Phases
 
-![NeuroBuddy Evolution Phases](./images/NeuroBuddy_Evolution_Phases.png)
+![NeuroBuddy Evolution Phases](../assets/phase_evolution_diagram.png)
 
 各ステップは、対話型AIから始まり、記憶の形成、知識共有、モジュール拡張、そして集合知的AIネットワークへの進化を示しています。
 
