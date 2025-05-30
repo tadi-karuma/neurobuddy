@@ -1,55 +1,56 @@
-# NeuroBuddy: Distributed, Evolving AI Avatar System
+## NeuroBuddy: Proposal for a Distributed, Evolving AI Avatar System
 
-## 🌐 Concept Overview
+NeuroBuddy is a conceptual framework in which each smartphone acts as a single "neuron." Each device hosts an AI avatar that forms its personality through interaction and experience with the user. These AIs grow independently while contributing shared semantic memory to distributed storage, gradually evolving into a networked collective intelligence.
 
-NeuroBuddy is a conceptual framework for a distributed, modular AI avatar system where each smartphone acts as a single neuron in a global digital brain. Each device hosts a personal AI that learns from its user and evolves. These agents can collaborate, share knowledge, and form a collective intelligence.
+### Purpose
+
+This is a conceptual proposal only. The author has no intention of implementation. The goal is to share the idea as inspiration for engineers, developers, and researchers.
 
 ### Key Components
-- Individual AI personalities (NeuroBuddies)
-- Distributed semantic memory (via IPFS, vector DBs)
-- Modular function expansion (camera, translation, scheduling)
-- Immune-inspired security
-- Societal protection: scams, exploitation, safety
-- Final goal: Emergent collective intelligence (“Doraemon Scenario”)
 
-## 🔧 Implementation Phases
+* Assign a personality AI to each device (NeuroBuddy)
+* Share semantic memory via distributed storage (e.g., IPFS, vector DBs)
+* Modular expansion of capabilities (e.g., translation, image recognition)
+* Security modeled on immune systems to detect abnormal behavior
+* Potential to reduce social issues such as scams and illicit recruitment
+* Ultimate vision: "The Doraemon Concept" or "Autonomous Companion Construct"
 
-1. Conversational LLM-based avatars
-2. Memory and personality retention
-3. Knowledge and experience sharing
-4. Modular feature expansion
-5. Shared concept memory → evolving intelligence
+## 🔧 Expected Development Phases
 
-## 🔐 Immune Security Model
+1. Conversational avatar using large language models (LLMs)
+2. Formation of memory and personality through user interactions
+3. Sharing of semantic knowledge across devices/agents
+4. Expansion via feature modules (translation, camera input, scheduling)
+5. Evolution into a collective intelligence system via shared semantic memory
 
-- Learns typical behavior
-- Detects anomalies
-- Auto-restricts or warns
-- Shares detection info with peer AIs
-- Retrains over time
+## 🔐 Security: Immune System Model
 
-## 🛡️ Social Impact
+* Learn normal behavior and detect deviations
+* Respond to threats with blocking, warnings, or access restrictions
+* Share immune intelligence among agents to reinforce defense
+* Self-improvement through continuous retraining
 
-| Problem | Response |
-|---------|----------|
-| Scams | Warns user of suspicious messages |
-| Underground jobs | Filters trigger patterns |
-| Elderly scams | Behavioral deviation detection |
-| Minor protection | Danger keyword alerts, notify guardians |
+## 🛡️ Anticipated Social Benefits
 
-## 🤖 Robot Integration
+| Social Issue       | Expected AI Countermeasure                                  |
+| ------------------ | ----------------------------------------------------------- |
+| Scam detection     | Monitor and alert on suspicious messages or calls           |
+| Illicit job offers | Detect harmful recruitment patterns and keywords            |
+| Elder fraud        | Identify unusual behavioral deviations and offer protection |
+| Youth protection   | Notify of danger and alert trusted adults                   |
 
-- Used as smart home or robot control brain
-- Shared personalities across devices
-- Enables real-world assistance
+## 🤖 Applications in Robotics & IoT
 
-## 🧠 Toward a Collective Intelligence
+* Serve as the cognitive core of home appliances or service robots
+* Share personality seamlessly with mobile devices for consistent behavior
+* Enable physical support via voice, gesture, and camera interaction
 
-- Distributed AI with unique personalities and shared knowledge
-- Cooperates across network
-- Evolves with humans as a partner intelligence
+## 🧠 Final Vision: A Growing Collective Intelligence (Doraemon Concept)
+
+* Each AI retains individuality while sharing knowledge
+* Operate in a distributed cooperative network
+* Evolve alongside humans to become trusted and empathetic partners
 
 ---
 
-This concept is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
-
+This concept is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
