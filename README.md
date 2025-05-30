@@ -1,5 +1,12 @@
 # NeuroBuddy / ニューロバディ
 
+> ⚠️ **This is a conceptual proposal, not an implementation.**  
+> NeuroBuddy presents a vision for a distributed, evolving AI avatar system.  
+> I hope this inspires developers, researchers, and futurists.  
+>
+> ⚠️ **これは構想提案であり、実装されたプロジェクトではありません。**  
+> NeuroBuddyは分散・成長型のAIアバターというビジョンを提示するものであり、技術者や研究者の方に拾っていただけたら幸いです。
+
 **EN:** NeuroBuddy is a conceptual framework for a distributed, evolving AI avatar system where each smartphone acts as a neuron.  
 **JP:** NeuroBuddyは、スマートフォン1台を1ニューロンと見立て、ユーザーとの会話と経験を通じて人格を成長させるAIアバター構想です。
 
