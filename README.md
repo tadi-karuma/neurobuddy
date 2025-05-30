@@ -31,7 +31,7 @@ Each AI runs on a personal device, develops a unique personality, and collaborat
 
 ## 🔁 Evolution Phases / 進化フェーズ
 
-![Evolution Phases Diagram](./images/NeuroBuddy_Evolution_Phases.png)  
+![Evolution Phases Diagram](./assets/phase_evolution_diagram.png)  
 **Figure: Evolution from basic AI avatars to collective intelligence**  
 **図：単体アバターから集合知への進化段階**
 
