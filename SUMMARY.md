@@ -15,6 +15,8 @@ This is a conceptual proposal only. The author has no intention of implementatio
 * Potential to reduce social issues such as scams and illicit recruitment
 * Ultimate vision: "The Doraemon Concept" or "Autonomous Companion Construct"
 
+---
+
 ## 🔧 Expected Development Phases
 
 1. Conversational avatar using large language models (LLMs)
@@ -50,6 +52,10 @@ This is a conceptual proposal only. The author has no intention of implementatio
 * Each AI retains individuality while sharing knowledge
 * Operate in a distributed cooperative network
 * Evolve alongside humans to become trusted and empathetic partners
+
+---
+
+📘 [Feasibility supplement available → FeasibilityNotes.md](./FeasibilityNotes.md)
 
 ---
 
