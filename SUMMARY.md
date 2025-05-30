@@ -51,4 +51,5 @@ NeuroBuddy is a conceptual framework for a distributed, modular AI avatar system
 
 ---
 
-MIT License
+This concept is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
