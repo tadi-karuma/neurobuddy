@@ -42,7 +42,8 @@ Potential use as a robot's mind or universal assistant OS. Targeting collaborati
 
 ## 🧾 License / ライセンス
 
-MIT License
+This proposal is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
 
 ---
 
