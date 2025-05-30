@@ -34,11 +34,11 @@ NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じ
 ## 💡 Suggested Uses / 想定される用途
 
 * A base for reuse and derivative proposals of conceptual designs
-* コンセプトの再利用・派生提案の基礎素材として
+  コンセプトの再利用・派生提案の基礎素材として
 * A starting point for academic or research-oriented themes
-* 学術・研究テーマのきっかけとして
+  学術・研究テーマのきっかけとして
 * An inspiration source for sci-fi narratives and worldbuilding
-* SF的なシナリオや世界観のインスピレーション源として
+  SF的なシナリオや世界観のインスピレーション源として
 
 ---
 
