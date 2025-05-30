@@ -65,3 +65,7 @@ This document outlines potential challenges, limitations, and risks associated w
 These challenges should not deter exploration—but recognizing them early enables proactive design and open collaboration.
 
 こうした課題は構想の価値を否定するものではなく、むしろ早期に認識することでより責任ある設計や連携が可能になります。
+
+---
+
+👉 [View README.md](../README.md) ｜ [View SUMMARY.md (English)](./SUMMARY.md) ｜ [日本語サマリーはこちら](./SUMMARY_ja.md)
