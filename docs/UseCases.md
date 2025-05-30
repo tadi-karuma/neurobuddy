@@ -69,3 +69,6 @@ This document outlines possible use cases and applications for the NeuroBuddy co
 > For detailed technical feasibility, refer to [FeasibilityNotes.md](./FeasibilityNotes.md)  
 > 技術的実現可能性の補足は [FeasibilityNotes.md](./FeasibilityNotes.md) を参照ください。
 
+---
+
+👉 [View README.md](../README.md) ｜ [View SUMMARY.md (English)](./SUMMARY.md) ｜ [日本語サマリーはこちら](./SUMMARY_ja.md)
