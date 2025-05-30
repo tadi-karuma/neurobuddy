@@ -1,96 +1,46 @@
-# NeuroBuddy / ニューロバディ - ドラえもん構想
+NeuroBuddy / ニューロバディ - ドラえもん構想
 
-> 🧠 **This is a conceptual proposal, not an implementation.**  
-> NeuroBuddy presents a vision for a distributed, evolving AI avatar system.  
-> This repository exists only to share the idea. No code will be written by the author.  
->
-> 🧠 **これは構想提案であり、実装プロジェクトではありません。**  
-> NeuroBuddyは分散・成長型AIアバターの未来像を示す構想です。  
-> このリポジトリはそのアイデアを公開するためのものであり、提案者がコードを書く予定は一切ありません。
+🧠 This repository presents a conceptual AI system proposal.There is no implementation included or planned.The intent is to inspire developers and researchers through this idea.
 
----
+🧠 このリポジトリはAIシステムに関する構想提案を共有するものです。実装は含まれておらず、今後の実装も予定されていません。技術者や研究者にとってのインスピレーションとなることを意図しています。
 
-## 🌐 Overview / 概要
+🌐 Overview / 概要
 
-NeuroBuddy は、各端末に人格を持たせ、分散ストレージで「意味記憶（semantic memory）」を共有するAIネットワーク構想です。個々のAIは独立してユーザーと対話・成長しながら、集合知として知性を形成します。
+NeuroBuddy is a concept for an AI network in which each device hosts a unique personality, sharing "semantic memory" through distributed storage. Each AI grows independently through interaction, contributing to a collective intelligence.
 
-This concept explores AI agents installed on each personal device, each evolving independently but sharing semantic memory via distributed storage. Together, they may form a collective, decentralized intelligence.
+NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じて「意味記憶」を共有するAIネットワークの構想です。各AIはユーザーとの対話を通じて独立して成長し、集合知としての知性を形成します。
 
----
+🎯 Intended Audience / 想定読者
 
-## 🔍 Conceptual Positioning / 背景と位置づけ
+Engineers, researchers, and educators interested in AI, IoT, and distributed systemsAI・IoT・分散システムに関心のあるエンジニア、研究者、教育関係者
 
-NeuroBuddy は次のような既存の技術分野と関連します：
+Explorers of ideas fascinated by futuristic visions and human-AI coexistenceSF的な未来像や人間との共生AIに関心を持つアイデア探索者
 
-- 分散知能・スウォームAI・クラウドAIの中間的モデル  
-  A hybrid model between distributed intelligence, swarm AI, and cloud AI
-- 意味記憶共有を用いたナレッジベースと自然対話の統合  
-  Integration of semantic memory with knowledge bases and natural conversation
-- セキュリティや倫理問題を考慮した「人格付きAI」の方向性  
-  Personality-based AI with attention to ethics and security
-- 「ドラえもん構想」：人と共に育つ、伴走型の知性体  
-  The “Doraemon Concept”: an AI companion that grows with the user
+Creative thinkers who prefer contributing at the conceptual stage rather than coding実装ではなく構想段階から参加・議論したいクリエイティブ志向の読者
 
----
+💡 Suggested Uses / 想定される用途
 
-## 🚀 Example Use Cases / 想定ユースケース
+A base for reuse and derivative proposals of conceptual designsコンセプトの再利用・派生提案の基礎素材として
 
-### 👤 個人向け / For Individuals
-- 自分専用の人格AI（記憶・感情・雑談・予定管理など）  
-  Personalized AI agent with memory, emotion, chatting, and scheduling
-- 家電や照明、住環境の制御（IoT連携）  
-  Control of home appliances, lighting, and environment via IoT
+A starting point for academic or research-oriented themes学術・研究テーマのきっかけとして
 
-### 🏢 組織・自治体向け / For Organizations & Government
-- 各端末のナレッジを意味的に連携し、業務効率化  
-  Semantic knowledge coordination between devices to improve workflows
-- 分散した記録からの提案・議事要約・代理応答  
-  Proposal generation, summarization, and response from distributed logs
+An inspiration source for sci-fi narratives and worldbuildingSF的なシナリオや世界観のインスピレーション源として
 
-### 🌏 社会的活用 / Societal Applications
-- 高齢者や若年層の見守り、特殊詐欺防止の対話インターフェース  
-  Conversation interface for elder care and fraud prevention
-- 社会的孤立の緩和、情報ナビゲーターとしての支援  
-  Support to reduce social isolation and navigate public information
+📄 Full Concept Summary / 構想の詳細ドキュメント
 
-### 🤖 将来：ロボットOSや知性体として / Future: Robot OS and Intelligent Beings
-- ロボットに人格を与え、学習・行動・社会的ふるまいを一貫化  
-  Robots with personalities for consistent learning, behavior, and interaction
-- 集団でのタスク遂行や行動計画（物理支援含む）  
-  Coordinated task execution including physical assistance
+English Summary
 
----
+日本語サマリー
 
-## 🛡️ 特徴的な発想 / Unique Features
+💬 Join the Discussion / 議論に参加する
 
-- 🧠 各端末に独立した人格AI  
-  Each device runs an independent AI personality
-- 🧬 分散型意味記憶の共有  
-  Semantic memory is shared through decentralized systems
-- 🛡️ 免疫機能モデルによるセキュリティ（異常行動検知）  
-  Immune-inspired anomaly detection for security
-- 🤝 成長履歴とユーザーの育て方で性格が変わる  
-  Personality evolves based on user interaction and history
-- 📉 社会問題（詐欺・闇バイト等）抑止の副次効果  
-  Potential to reduce social issues like scams and black-market jobs
+Have thoughts or extensions? Please join the discussion here:→ GitHub Discussions
 
----
+構想に共感したり、技術的視点や応用提案があれば、ぜひDiscussionsタブでご意見をお聞かせください。
 
-## 🗨️ Message from the proposer / 提案者の言葉
+🧾 License / ライセンス
 
-この構想は、ふとした思いつきから始まりました。  
-「マンガやアニメのアンドロイドの相棒を実現する具体的な方法を考察してみよう」  
-このアイデアが誰かの創造のヒントになれば幸いです。
-
-This idea started from a simple thought:  
-"How might we actually realize the android companions from manga and anime?"  
-I hope this idea becomes a source of inspiration for creators and researchers.
-
----
-
-## 🧾 License / ライセンス
-
-This concept is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+This concept is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).この構想は CC BY 4.0 国際ライセンス に基づいて公開されています。
 この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
 
 ---
