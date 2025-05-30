@@ -1,5 +1,3 @@
-# README.md (Bilingual: English + Japanese)
-
 # NeuroBuddy / ニューロバディ - ドラえもん構想
 
 > 🧠 **This repository presents a conceptual AI system proposal.**  
