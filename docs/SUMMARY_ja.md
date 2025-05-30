@@ -59,4 +59,8 @@ NeuroBuddyは、スマートフォン1台を1ニューロンと見立て、ユ�
 
 ---
 
+👉 [View README.md](../README.md) 
+
+---
+
 この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
