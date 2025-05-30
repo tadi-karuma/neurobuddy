@@ -116,4 +116,6 @@ An efficient RPC framework based on HTTP/2 and protocol buffers. Commonly used f
 
 HTTP/2とProtocol Buffersを基盤にした高効率なRPCプロトコル。マイクロサービスやAIエージェント間通信に適している。
 
+---
 
+👉 [View README.md](../README.md) ｜ [View SUMMARY.md (English)](./SUMMARY.md) ｜ [日本語サマリーはこちら](./SUMMARY_ja.md)
