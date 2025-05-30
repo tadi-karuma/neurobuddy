@@ -66,7 +66,12 @@ Below is a visual roadmap showing how NeuroBuddy evolves from a simple conversat
 * [Feasibility Notes (補足・実現可能性)](./FeasibilityNotes.md)  
 * [Glossary (用語解説)](./Glossary.md)  
 * [Challenges & Risks (想定される課題とリスク)](./Challenges_and_Risks.md)
+---
   
+## 📘 Use Case Examples / 想定ユースケース集
+
+* [UseCases.md](./UseCases.md) — Real-world applications and usage scenarios of the NeuroBuddy concept.  
+  NeuroBuddy構想の実用的な応用・利用シーンをまとめたドキュメントです。
 ---
 
 ## 💬 Join the Discussion / 議論に参加する
