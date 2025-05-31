@@ -69,7 +69,7 @@ NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じ
 - [SUMMARY (English)](./docs/SUMMARY.md)｜[日本語サマリー](./docs/SUMMARY_ja.md)  
 - [Feasibility Notes](./docs/FeasibilityNotes.md)  
 - [Glossary](./docs/Glossary.md)  
-- [Challenges & Risks](./docs/ChallengesAndRisks.md)  
+- [Challenges & Risks](./docs/Challenges_and_Risks.md)  
 - [Use Cases](./docs/UseCases.md)
 
 ---
