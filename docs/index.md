@@ -29,7 +29,7 @@ Welcome to the documentation hub of **NeuroBuddy**, a conceptual proposal for a 
 - [SUMMARY (English)](SUMMARY.md)｜[日本語サマリー](SUMMARY_ja.md)  
 - [Feasibility Notes](FeasibilityNotes.md)  
 - [Glossary](Glossary.md)  
-- [Challenges & Risks](ChallengesAndRisks.md)  
+- [Challenges & Risks](Challenges_and_Risks.md)  
 - [Use Cases](UseCases.md)
 
 ---
