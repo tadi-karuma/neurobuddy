@@ -1,4 +1,4 @@
-# NeuroBuddy / ニューロバディ - 自動人形構想
+# NeuroBuddy / ニューロバディ - 自動人形構想提案
 
 > 🧠 **This repository presents a conceptual AI system proposal.**  
 > There is no implementation included or planned.  
@@ -10,78 +10,81 @@
 
 ---
 
-## 🚀 What is NeuroBuddy? / NeuroBuddyとは？
+## 🌐 Overview / 概要
 
-**A vision of evolving AI avatars across devices, growing through user interaction, and connected via shared semantic memory.**  
-**ユーザーとの対話を通じて成長し、意味記憶を通じて連携する、分散型AIアバターの構想です。**
+NeuroBuddy is a concept for an AI network in which each device hosts a unique personality, sharing "semantic memory" through distributed storage. Each AI grows independently through interaction, contributing to a collective intelligence.
 
-Each AI runs on a personal device, develops a unique personality, and collaborates in a distributed network — ultimately aiming to become a trusted intelligence that grows with humans.  
-各AIは個別端末で人格を持って成長しながら、分散ネットワーク内で知識共有・協調を行い、  
-最終的には「人と共に育つ知性体」へと進化することを目指します。
+NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じて「意味記憶」を共有するAIネットワークの構想です。各AIはユーザーとの対話を通じて独立して成長し、集合知としての知性を形成します。
 
 ---
 
-## 🌐 System Overview / システム全体像
+## 🧭 Network Overview / ネットワーク全体図
 
-![System Diagram](./assets/NeuroBuddy_Network_Overview.png)  
-**Figure: Overview of the NeuroBuddy distributed AI network**  
-**図：NeuroBuddy分散AIネットワークの全体像**
+![NeuroBuddy Network Overview](./assets/neurobuddy_network_overview.png)  
+*A conceptual diagram of NeuroBuddy’s distributed intelligence and semantic memory sharing architecture.*  
+*分散知性と意味記憶共有の仕組みを示した構想図です。*
 
 ---
 
-## 🔁 Evolution Phases / 進化フェーズ
+## 🧬 Evolution Phases / 進化フェーズ図
 
-![Evolution Phases Diagram](./assets/phase_evolution_diagram.png)  
-**Figure: Evolution from basic AI avatars to collective intelligence**  
-**図：単体アバターから集合知への進化段階**
+![Evolution Phases](./assets/neurobuddy_evolution_phases.png)  
+*The system evolves from a simple avatar to a distributed, intelligent companion.*  
+*会話エージェントから集合知へと進化する過程を示しています。*
+
+---
+
+## 🗺️ Use Case Mapping / ユースケースマップ
+
+![Use Case Map](./assets/neurobuddy_usecase_map.png)  
+*A mind map showing application domains including healthcare, education, robotics, and accessibility.*  
+*ヘルスケア、教育、ロボティクス、アクセシビリティなど多分野での活用可能性を示しています。*
 
 ---
 
 ## 🎯 Intended Audience / 想定読者
 
-* Engineers, researchers, and educators interested in AI, IoT, and distributed systems  
+- Engineers, researchers, and educators in AI, IoT, and distributed systems  
 　AI・IoT・分散システムに関心のあるエンジニア、研究者、教育関係者  
-* Explorers of ideas fascinated by futuristic visions and human-AI coexistence  
-  SF的な未来像や人間との共生AIに関心を持つアイデア探索者  
-* Creative thinkers who prefer contributing at the conceptual stage rather than coding  
-  実装ではなく構想段階から参加・議論したいクリエイティブ志向の読者  
+- Explorers of futuristic human-AI coexistence  
+　SF的な未来像や共生型AIに関心のある読者  
+- Creators who prefer shaping ideas over implementing them  
+　実装ではなく構想段階での創造を楽しむ人々
 
 ---
 
 ## 💡 Suggested Uses / 想定される用途
 
-* A base for reuse and derivative proposals of conceptual designs  
-  コンセプトの再利用・派生提案の基礎素材として  
-* A starting point for academic or research-oriented themes  
-  学術・研究テーマのきっかけとして  
-* An inspiration source for sci-fi narratives and worldbuilding  
-  SF的なシナリオや世界観のインスピレーション源として  
+- Concept reuse and derivative ideas  
+　構想の再利用や派生提案のベースとして  
+- Academic or speculative research starting point  
+　学術・未来研究の起点として  
+- Sci-fi narrative inspiration  
+　SF作品や物語構築のヒントとして
 
 ---
 
-## 📄 Documents / ドキュメント一覧
+## 📄 Extended Documentation / 補足資料
 
-* [📘 English Summary (概要英語)](./docs/SUMMARY.md)  
-* [📙 日本語サマリー](./docs/SUMMARY_ja.md)  
-* [🧠 Feasibility Notes / 実現補足解説](./docs/FeasibilityNotes.md)  
-* [📚 Glossary / 用語解説](./docs/Glossary.md)  
-* [🚧 Risks & Challenges / 想定される課題とリスク](./docs/RisksAndChallenges.md)  
-* [💡 Use Cases / 想定ユースケース](./docs/UseCases.md)  
+- [SUMMARY (English)](./docs/SUMMARY.md)｜[日本語サマリー](./docs/SUMMARY_ja.md)  
+- [Feasibility Notes](./docs/FeasibilityNotes.md)  
+- [Glossary](./docs/Glossary.md)  
+- [Challenges & Risks](./docs/ChallengesAndRisks.md)  
+- [Use Cases](./docs/UseCases.md)
 
 ---
 
 ## 💬 Join the Discussion / 議論に参加する
 
-Have thoughts or extensions? Please join the discussion here:  
-[→ GitHub Discussions](https://github.com/tadi-karuma/neurobuddy/discussions)
-
-構想に共感したり、技術的視点や応用提案があれば、ぜひDiscussionsタブでご意見をお聞かせください。
+Questions or thoughts?  
+[→ GitHub Discussions](https://github.com/your-username/neurobuddy/discussions)
 
 ---
 
 ## 🧾 License / ライセンス
 
-This concept is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+Released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
+
 
 
