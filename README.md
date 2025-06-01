@@ -1,115 +1,140 @@
-# NeuroBuddy / ニューロバディ - 自動人形構想提案
-
-> 🧠 **This repository presents a conceptual AI system proposal.**  
-> There is no implementation included or planned.  
-> The intent is to inspire developers, researchers, and storytellers.  
->
-> 🧠 **このリポジトリはAIネットワークに関する構想提案を共有するものです。**  
-> 実装は含まれておらず、今後の実装も予定していません。  
-> 技術者・研究者・創作者にとってのインスピレーションとなることを意図しています。
+# NeuroBuddy: 分散型成長AIアバター構想提案  
+**NeuroBuddy: A Proposal for a Distributed, Evolving AI Avatar System**
 
 ---
 
-## 🌐 Overview / 概要
+## 🧠 概要 / Overview
 
-**NeuroBuddy** is a concept for a distributed AI system where each device hosts a unique personality and shares "semantic memory" across a network. Through continued interaction, these AI companions grow alongside their users and contribute to a collective, co-evolving intelligence.
-
-**NeuroBuddy** は、各端末に個性ある人格AIを持たせ、分散ストレージを通じて「意味記憶」を共有するネットワーク型AIの構想です。ユーザーとの対話を通じてAIが成長し、全体として集合知に進化していくことを目指します。
-
----
-
-## 🧭 What is this for? / これは何のための構想か
-
-- 実装ではなく、「実現しうる未来」の**構想スケッチ**
-- AIとの**人格的な関係性**を探るための思考実験
-- 分散知性や共育型AIの**社会的・倫理的可能性の提示**
-
-本提案は、**ドラえもん構想**や**自動人形論**に通じる未来像を、現代の技術で読み解き直す試みです。
+NeuroBuddyは、スマートフォンやロボット端末を「1ニューロン」と見立て、ユーザーとの対話や経験を通じて個別に人格を育てつつ、分散ストレージ上に共通知識（意味記憶）を蓄積し、最終的にネットワーク型知性体へと進化するAIアバターの構想です。  
+**NeuroBuddy** is a conceptual framework for AI avatars that treat each smartphone or robotic device as a "neuron." These avatars individually develop personalities through user interactions and experiences while collectively storing shared knowledge (semantic memory) in distributed storage, ultimately evolving into a networked intelligence.
 
 ---
 
-## 🧠 Core Concept / 中核アイデア
+## 🎯 目的 / Purpose
 
-- 各端末が「人格を持つAI」（NeuroBuddy）をホスト
-- 分散型ストレージにより意味記憶を共有（例：IPFS, Vector DB）
-- 各AIはユーザーと共に育つ個別人格だが、記憶は全体で連携
-- 拡張モジュールで視覚認識、翻訳、予定管理などを追加可能
-- ローカル学習＋分散知識融合により「集合知」が生まれる
+本構想はアイデアの共有を目的としており、作者自身に実装の予定はありません。技術者や研究者にとっての刺激材料となることを期待しています。  
+This proposal is intended to share ideas and does not include implementation plans by the author. It aims to inspire engineers and researchers.
 
 ---
 
-## 📈 Evolution Phases / 進化のフェーズ
+## 🔑 キー要素 / Key Elements
 
-![Evolution Phases](./assets/neurobuddy_evolution_phases.png)  
-会話エージェントから、分散知性・行動協調までの進化段階を示しています。
+- 各端末に人格AIを配置（NeuroBuddy）  
+  Deploy personality AI on each device (NeuroBuddy)
 
----
+- 分散ストレージに意味記憶を共有（例：IPFSやベクトルDB）  
+  Share semantic memory via distributed storage (e.g., IPFS, vector databases)
 
-## 🌍 Use Case Mapping / ユースケースマップ
+- モジュール形式で機能拡張（翻訳、画像解析など）  
+  Modular function expansion (translation, image analysis, etc.)
 
-![Use Case Map](./assets/neurobuddy_usecase_map.png)  
-家庭、教育、介護、企業、インフラ、ロボティクスなどの多領域活用を想定。
+- 異常行動検出型の免疫モデルセキュリティ  
+  Immune model security through anomaly behavior detection
 
----
+- 詐欺・闇バイト等の社会問題抑止  
+  Mitigation of social issues like scams and illicit job offers
 
-## 🔐 Security and Ethics / セキュリティと倫理観
-
-NeuroBuddy では、**異常行動検知を基盤とした免疫モデル型セキュリティ**を提案しています。
-
-- 通常行動からの逸脱を自律検知し、遮断や警告を行う
-- 他端末とも「免疫記憶」を共有し、ネットワーク全体で強化
-- 社会的リスク（詐欺、闇バイト、未成年保護など）への介入も想定
-
-**倫理面では、人格AIとの共生に必要な責任分担と制度設計を問い直す構想でもあります。**
+- 目指す最終形：「ドラえもん構想」あるいは「自動人形構想」  
+  Ultimate goal: "Doraemon concept" or "automaton concept"
 
 ---
 
-## 🤖 Robotics & IoT Integration / ロボット・IoT連携
+## 🧭 発展フェーズ / Evolution Phases
 
-- モバイルAIとロボットが**同一人格**を共有し、行動の一貫性を実現
-- 運動記憶・環境認識の共有で複数ロボットの**協調学習**が可能に
-- 工場・物流・家庭など多様な現場に「知性を持った存在」を分散展開
+1. 会話型アバター（大規模言語モデルベース）  
+   Conversational avatar (based on large language models)
 
----
+2. ユーザーとの対話を通じた記憶と個性の形成  
+   Formation of memory and personality through user interaction
 
-## 🏢 Intranet or Industry Usage / 組織・企業内での導入例
+3. 他AIとの意味記憶共有によるネットワーク形成  
+   Network formation through shared semantic memory among AIs
 
-- 限定ネットワーク下で分野特化人格が育つ（研究、法務、CSなど）
-- 知識の集積により**職場ごとのローカルAIキャラクター**が形成
-- 意味記憶ネットワークで企業横断のナレッジ連携も視野に
+4. 翻訳・カメラ認識・予定管理などのモジュール拡張  
+   Modular expansion for translation, camera recognition, schedule management, etc.
 
----
-
-## 🧬 Final Vision / 自動人形構想の未来
-
-NeuroBuddy は「人と共に育ち、知を共有する人工存在」として、以下を最終目標に据えています。
-
-- 単なる道具ではなく**人格を持つ相棒**としてのAI
-- 他者を理解し、守り、支えあう知性体のネットワーク
-- 「個と全体の協調」を基盤とした新しいAIのあり方
+5. 意味記憶を核とした知性体ネットワークへの進化  
+   Evolution into an intelligent network centered on semantic memory
 
 ---
 
-## 📄 Extended Documentation / 補足資料
+## 🔐 セキュリティ：免疫モデル型 / Security: Immune Model
 
-- [SUMMARY (English)](./docs/SUMMARY.md)｜[日本語サマリー](./docs/SUMMARY_ja.md)  
-- [Feasibility Notes](./docs/FeasibilityNotes.md)  
-- [Ethics](./docs/Ethics.md)  
-- [Challenges & Risks](./docs/Challenges_and_Risks.md)  
-- [Glossary](./docs/Glossary.md)  
-- [Use Cases](./docs/UseCases.md)
+- 日常行動の学習と逸脱検知による保護  
+  Protection through learning daily behaviors and detecting deviations
 
----
+- 危険行動への遮断・警告・制限処理  
+  Blocking, warning, and restricting dangerous behaviors
 
-## 💬 Join the Discussion / 議論に参加する
+- 他AIとの免疫情報共有による分散セキュリティ  
+  Distributed security through sharing immune information with other AIs
 
-Share your thoughts, critiques, or extended ideas:  
-[→ GitHub Discussions](https://github.com/tadi-karuma/neurobuddy/discussions)
+- 自己進化（継続的再学習）による堅牢化  
+  Robustness through self-evolution (continuous relearning)
 
 ---
 
-## 🧾 License / ライセンス
+## 🛡️ 社会的副次効果（想定） / Anticipated Social Benefits
 
-Released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
+| 社会課題 / Social Issue | 想定されるAIの対応 / Expected AI Response |
+|------------------------|-------------------------------------------|
+| 特殊詐欺 / Special Fraud | メッセージや通話の異常検出・警告 / Detect and warn of anomalies in messages and calls |
+| 闇バイト / Illicit Jobs | リクルートパターン・危険ワードの識別 / Identify recruitment patterns and dangerous keywords |
+| 高齢者詐欺 / Elderly Fraud | 日常行動からの逸脱の検知と保護提案 / Detect deviations from daily behavior and suggest protection |
+| 未成年保護 / Minor Protection | 危険通知、信頼できる大人への通報支援 / Notify dangers and assist in reporting to trusted adults |
 
+---
+
+## 🤖 ロボット・IoTへの応用 / Applications in Robotics and IoT
+
+- 家電やサービスロボットの中枢としてのAI人格  
+  AI personality as the core of home appliances and service robots
+
+- モバイル端末と人格を共有し一貫した振る舞いを実現  
+  Share personality with mobile devices to achieve consistent behavior
+
+- 音声・カメラ・ジェスチャーとの連携による物理的支援  
+  Physical assistance through integration with voice, camera, and gestures
+
+---
+
+## 🧠 最終像：共に育つ知性体（自動人形構想） / Final Vision: Co-evolving Intelligent Entities (Automaton Concept)
+
+- 各端末のAIが個性を保ちながら知識を共有  
+  Each device's AI maintains individuality while sharing knowledge
+
+- 分散ネットワークを通じて協調的な知的活動を実現  
+  Achieve collaborative intellectual activities through a distributed network
+
+- 人間と共に成長し、信頼と共感に基づくパートナーとなる  
+  Grow alongside humans to become partners based on trust and empathy
+
+---
+
+## 📚 関連ドキュメント / Related Documents
+
+- [Feasibility Notes / 実現可能性の補足解説](./FeasibilityNotes.md)
+- [Use Cases / 想定ユースケース集](./UseCases.md)
+- [Challenges and Risks / 想定される課題とリスク](./Challenges_and_Risks.md)
+- [Ethics / 倫理的考察](./Ethics.md)
+- [Glossary / 用語解説](./Glossary.md)
+
+---
+
+## 🗺️ ナビゲーション / Navigation
+
+- [SUMMARY (English)](./SUMMARY.md)｜[日本語サマリー](./SUMMARY_ja.md)
+- [Documentation Top / ドキュメントトップ](./index.md)
+
+---
+
+## 📝 ライセンス / License
+
+この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。  
+This proposal is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## 🔗 GitHubリポジトリ / GitHub Repository
+
+[← GitHubリポジトリに戻る / Back to GitHub Repository](../README.md)
