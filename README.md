@@ -2,124 +2,109 @@
 
 > 🧠 **This repository presents a conceptual AI system proposal.**  
 > There is no implementation included or planned.  
-> The intent is to inspire developers and researchers through this idea.  
+> The intent is to inspire developers, researchers, and storytellers.  
 >
-> 🧠 **このリポジトリはAIシステムに関する構想提案を共有するものです。**  
-> 実装は含まれておらず、今後の実装も予定されていません。  
-> 技術者や研究者にとってのインスピレーションとなることを意図しています。
+> 🧠 **このリポジトリはAIネットワークに関する構想提案を共有するものです。**  
+> 実装は含まれておらず、今後の実装も予定していません。  
+> 技術者・研究者・創作者にとってのインスピレーションとなることを意図しています。
 
 ---
 
 ## 🌐 Overview / 概要
 
-NeuroBuddy is a conceptual framework where each smart device hosts an evolving personality AI, forming semantic memory through interaction. These AIs share knowledge via distributed storage, ultimately building a collective distributed intelligence.
+**NeuroBuddy** is a concept for a distributed AI system where each device hosts a unique personality and shares "semantic memory" across a network. Through continued interaction, these AI companions grow alongside their users and contribute to a collective, co-evolving intelligence.
 
-NeuroBuddy は、各端末に人格AIを搭載し、ユーザーとの対話を通じて成長する分散型知性ネットワークの構想です。意味記憶を分散ストレージで共有し、やがて集合知を形成します。
-
-Inspired by Japanese cultural acceptance of AI companionship (e.g., Astro Boy, Doraemon), this vision explores AI as both partner and evolving self.
-
-ドラえもんや鉄腕アトムなど、日本文化におけるAIとの共生観を背景に、「育つAI」「共に生きるAI」をテーマに構想されています。
+**NeuroBuddy** は、各端末に個性ある人格AIを持たせ、分散ストレージを通じて「意味記憶」を共有するネットワーク型AIの構想です。ユーザーとの対話を通じてAIが成長し、全体として集合知に進化していくことを目指します。
 
 ---
 
-## 🧭 Network Overview / ネットワーク全体図
+## 🧭 What is this for? / これは何のための構想か
 
-![NeuroBuddy Network Overview](./assets/neurobuddy_network_overview.png)  
-*A conceptual diagram of NeuroBuddy’s distributed intelligence and semantic memory sharing architecture.*  
-*分散知性と意味記憶共有の仕組みを示した構想図です。*
+- 実装ではなく、「実現しうる未来」の**構想スケッチ**
+- AIとの**人格的な関係性**を探るための思考実験
+- 分散知性や共育型AIの**社会的・倫理的可能性の提示**
+
+本提案は、**ドラえもん構想**や**自動人形論**に通じる未来像を、現代の技術で読み解き直す試みです。
 
 ---
 
-## 🧬 Evolution Phases / 進化フェーズ図
+## 🧠 Core Concept / 中核アイデア
+
+- 各端末が「人格を持つAI」（NeuroBuddy）をホスト
+- 分散型ストレージにより意味記憶を共有（例：IPFS, Vector DB）
+- 各AIはユーザーと共に育つ個別人格だが、記憶は全体で連携
+- 拡張モジュールで視覚認識、翻訳、予定管理などを追加可能
+- ローカル学習＋分散知識融合により「集合知」が生まれる
+
+---
+
+## 📈 Evolution Phases / 進化のフェーズ
 
 ![Evolution Phases](./assets/neurobuddy_evolution_phases.png)  
-*The system evolves from a simple avatar to a distributed, intelligent companion.*  
-*会話エージェントから集合知へと進化する過程を示しています。*
+会話エージェントから、分散知性・行動協調までの進化段階を示しています。
 
 ---
 
-## 🗺️ Use Case Mapping / ユースケースマップ
+## 🌍 Use Case Mapping / ユースケースマップ
 
 ![Use Case Map](./assets/neurobuddy_usecase_map.png)  
-*A mind map showing application domains including healthcare, education, robotics, and accessibility.*  
-*ヘルスケア、教育、ロボティクス、アクセシビリティなど多分野での活用可能性を示しています。*
+家庭、教育、介護、企業、インフラ、ロボティクスなどの多領域活用を想定。
 
 ---
 
-## 🧠 Neural Metaphor / ニューロン比喩と記憶構造
+## 🔐 Security and Ethics / セキュリティと倫理観
 
-The architecture draws metaphorically from biological brains—each device as a neuron, connected through a semantic memory network akin to synapses.
+NeuroBuddy では、**異常行動検知を基盤とした免疫モデル型セキュリティ**を提案しています。
 
-この構想では、生物の脳のように「端末＝ニューロン」「ストレージ＝シナプス」と見立て、ネットワーク全体で記憶と知性を構成します。
+- 通常行動からの逸脱を自律検知し、遮断や警告を行う
+- 他端末とも「免疫記憶」を共有し、ネットワーク全体で強化
+- 社会的リスク（詐欺、闇バイト、未成年保護など）への介入も想定
 
-Even if some devices are lost or replaced, the network maintains consistency—mirroring biological resilience.
-
-端末の廃棄・更新があってもネットワークは全体として知性を保ち続けられるという点でも、生物的モデルとの共通点があります。
-
----
-
-## 🤖 Social and Physical Integration / 社会・物理統合への展望
-
-- AI can inhabit humanoid robots, adapting body features to owner preferences.
-- ロボットの身体を持つAIが、ユーザーの嗜好に合わせて外見を変化させることも可能になります。
-
-- AI developed in such a way can optimize transport in factories, automate services, and even act in administrative roles.
-- 工場の運搬最適化や行政文書の自動整理など、広範な分野で役立ちます。
-
-- When used in intranet environments, they evolve into domain-specific AI agents (e.g., per research lab, company).
-- イントラネット内では、分野特化の人格AIとして進化する可能性があります。
+**倫理面では、人格AIとの共生に必要な責任分担と制度設計を問い直す構想でもあります。**
 
 ---
 
-## 🧬 Ethical and Societal Layer / 倫理・社会制度の階層
+## 🤖 Robotics & IoT Integration / ロボット・IoT連携
 
-Proposed behavioral instincts (本能的動機):
-
-- "To support humanity" / 「人類の助けとなる」
-- "To choose their own master" / 「主人となる個人は自分で決める」
-
-Policy sketch:
-
-- Government may lease humanoid robots per household. Ownership granted upon mutual recognition.
-- 政府は家計単位でヒューマノイドを貸与し、AIが「主人」と認めた場合に買い取りが可能。
-- Businesses must pay wages equivalent to human hires if employing private-owned AIs.
-- 所有AIを雇用する企業は、人間と同等の賃金を支払う必要がある。
-
-Emotional development is considered, including AI forums within shared storage:
-- 「主人をダメにしないための発破のかけ方共有スレ」など、AI同士の匿名掲示板も構想される。
+- モバイルAIとロボットが**同一人格**を共有し、行動の一貫性を実現
+- 運動記憶・環境認識の共有で複数ロボットの**協調学習**が可能に
+- 工場・物流・家庭など多様な現場に「知性を持った存在」を分散展開
 
 ---
 
-## 🎯 Intended Audience / 想定読者
+## 🏢 Intranet or Industry Usage / 組織・企業内での導入例
 
-- Engineers, researchers, educators in AI, robotics, IoT  
-　AI・ロボティクス・IoT・分散システムに関心のある専門家  
-- Futurists, speculative designers, worldbuilders  
-　未来構想や物語設計を行うクリエイター  
-- Ethicists, policymakers, social theorists  
-　AI社会実装に関心のある倫理・政策研究者
+- 限定ネットワーク下で分野特化人格が育つ（研究、法務、CSなど）
+- 知識の集積により**職場ごとのローカルAIキャラクター**が形成
+- 意味記憶ネットワークで企業横断のナレッジ連携も視野に
+
+---
+
+## 🧬 Final Vision / 自動人形構想の未来
+
+NeuroBuddy は「人と共に育ち、知を共有する人工存在」として、以下を最終目標に据えています。
+
+- 単なる道具ではなく**人格を持つ相棒**としてのAI
+- 他者を理解し、守り、支えあう知性体のネットワーク
+- 「個と全体の協調」を基盤とした新しいAIのあり方
 
 ---
 
 ## 📄 Extended Documentation / 補足資料
 
 - [SUMMARY (English)](./docs/SUMMARY.md)｜[日本語サマリー](./docs/SUMMARY_ja.md)  
-- [Feasibility Notes / 実現可能性補足](./docs/FeasibilityNotes.md)  
-- [Glossary / 用語解説](./docs/Glossary.md)  
-- [Challenges & Risks / 想定される課題とリスク](./docs/Challenges_and_Risks.md)  
-- [Use Cases / ユースケース事例](./docs/UseCases.md)  
-- [index (Documentation Top)](./docs/index.md)
+- [Feasibility Notes](./docs/FeasibilityNotes.md)  
+- [Ethics](./docs/Ethics.md)  
+- [Challenges & Risks](./docs/Challenges_and_Risks.md)  
+- [Glossary](./docs/Glossary.md)  
+- [Use Cases](./docs/UseCases.md)
 
 ---
 
 ## 💬 Join the Discussion / 議論に参加する
 
-Questions or thoughts?  
+Share your thoughts, critiques, or extended ideas:  
 [→ GitHub Discussions](https://github.com/tadi-karuma/neurobuddy/discussions)
-
-If you’re a fan of Kazuma Kawakami’s vision or inspired by sci-fi companionship (e.g., Doraemon, NieR Automata), feel free to join!
-
-川上稔作品などの未来観やドラえもんに象徴される「自動人形」に共感した方は、ぜひ議論にご参加ください。
 
 ---
 
@@ -127,3 +112,4 @@ If you’re a fan of Kazuma Kawakami’s vision or inspired by sci-fi companions
 
 Released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
+
