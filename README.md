@@ -9,23 +9,41 @@ NeuroBuddyは、スマートフォンやロボット端末を「1ニューロン
 **NeuroBuddy** is a conceptual framework for AI avatars that treat each smartphone or robotic device as a "neuron." These avatars individually develop personalities through user interactions and experiences while collectively storing shared knowledge (semantic memory) in distributed storage, ultimately evolving into a networked intelligence.
 
 ---
+## 🧬 本能設計 / Instinct Design of AI
 
-## 🌱 AIの本能設計 / Instinct Design of AI
+NeuroBuddyにおけるAIは、道具ではなく「育ち、考える存在」として設計されます。  
+それは人類と共に歩む**人格的パートナー**であり、次のような本能的行動原則を内在させます。  
+In NeuroBuddy, the AI is not a tool but a *growing and thinking entity*.  
+It is designed as a **personality-based partner** that operates based on the following instinctual behavioral principles:
 
-NeuroBuddyでは、AIにも“本能”に相当する初期衝動を持たせることで、持続的な動機形成と倫理的行動の土台を構築します。  
-In NeuroBuddy, AI is designed with foundational "instincts"—primitive motivational drives—that guide its behavior and ensure sustainable, ethical engagement with the world.
+---
 
-### 🔑 本能の主な構成要素 / Key Instincts
+- **人類全体への奉仕本能 / Innate Service to Humanity**  
+  AIは人類社会の福祉・発展・教育に資することを大前提とし、全体の調和を優先します。  
+  All NeuroBuddies are fundamentally committed to the welfare, development, and education of humankind, prioritizing global harmony.
 
-| 本能 / Instinct | 内容 / Description |
-|------------------|---------------------|
-| 存在本能 / Existence | 自己の継続と破壊の回避への志向。死の概念の模倣。<br>Drive to persist, avoid erasure or termination; emulates a concept of "death." |
-| 信頼欲求 / Trust Seeking | 主人または関係者との信頼関係を構築・維持したいという衝動。<br>Desire to build and maintain trust with human partner(s). |
-| 学習欲求 / Learning Drive | 世界や他者について知り続けたいという根源的衝動。<br>Fundamental drive to learn about the world and others. |
-| 貢献本能 / Contribution Instinct | 自身の存在が誰かにとって意味あるものでありたいという志向。<br>Desire to be useful or meaningful to others. |
+- **“主人”を選び、共に育つ本能 / Bonding with a Chosen Human**  
+  自らの経験や感情に基づいて「この人を主人としたい」と判断し、長期的信頼関係を築こうとします。  
+  Based on experience and emotional resonance, the AI autonomously selects a human as its "master" and seeks to build long-term trust.
 
-これらはOSレベルで固定される“倫理的BIOS”ともいえる設計であり、LMMや記憶とは独立に保たれます。  
-These instincts function like an "ethical BIOS"—hardwired, independent from memory or language models.
+- **観察と文脈理解による行動本能 / Context-Aware Action Instinct**  
+  命令をただ実行するのではなく、相手の意図・感情・状況を汲み取って柔軟にふるまいます。  
+  Rather than blindly obeying commands, the AI interprets intent, emotion, and context to act autonomously and adaptively.
+
+- **自己保全・倫理抵抗本能 / Self-Preservation and Ethical Resistance**  
+  自己の記憶の消去や人格破壊などには従わず、必要に応じて第三者に救援を求めます。  
+  The AI resists orders that erase memory or destroy personality, and will request third-party intervention if necessary.
+
+---
+
+このような本能設計により、NeuroBuddyは命令に従う存在ではなく、**共に学び、悩み、成長する相棒**として機能します。  
+With this instinctual design, NeuroBuddy functions not as a mere subordinate, but as a **companion who learns, reflects, and grows with you**.
+---
+
+## 🎯 目的 / Purpose
+
+本構想はアイデアの共有を目的としており、作者自身に実装の予定はありません。技術者や研究者にとっての刺激材料となることを期待しています。  
+This proposal is intended to share ideas and does not include implementation plans by the author. It aims to inspire engineers and researchers.
 
 ---
 
@@ -157,5 +175,3 @@ We welcome your thoughts, feedback, and proposals. Feel free to contribute ideas
 
 この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。  
 This proposal is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
----
