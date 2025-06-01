@@ -1,64 +1,82 @@
 ## NeuroBuddy: Proposal for a Distributed, Evolving AI Avatar System
 
-NeuroBuddy is a conceptual framework in which each smartphone acts as a single "neuron." Each device hosts an AI avatar that forms its personality through interaction and experience with the user. These AIs grow independently while contributing shared semantic memory to distributed storage, gradually evolving into a networked collective intelligence.
+NeuroBuddy is a conceptual AI system in which each device (e.g., smartphone, robot) acts as an individual "neuron" with its own growing personality. These devices learn independently through interaction with their users while sharing semantic memory via decentralized storage. Together, they evolve into a distributed network of collective intelligence—potentially forming the basis of future humanoid AI companions.
 
-### Purpose
+### 🎯 Purpose
 
-This is a conceptual proposal only. The author has no intention of implementation. The goal is to share the idea as inspiration for engineers, developers, and researchers.
-
-### Key Components
-
-* Assign a personality AI to each device (NeuroBuddy)
-* Share semantic memory via distributed storage (e.g., IPFS, vector DBs)
-* Modular expansion of capabilities (e.g., translation, image recognition)
-* Security modeled on immune systems to detect abnormal behavior
-* Potential to reduce social issues such as scams and illicit recruitment
-* Ultimate vision: "The Doraemon Concept" or "Autonomous Companion Construct"
+This is a conceptual proposal only. The author has no plans to implement it.  
+It aims to stimulate engineers, researchers, and creators by offering a vision of future AI ecosystems.
 
 ---
 
-## 🔧 Expected Development Phases
+### 🧩 Key Components
 
-1. Conversational avatar using large language models (LLMs)
-2. Formation of memory and personality through user interactions
-3. Sharing of semantic knowledge across devices/agents
-4. Expansion via feature modules (translation, camera input, scheduling)
-5. Evolution into a collective intelligence system via shared semantic memory
-
-## 🔐 Security: Immune System Model
-
-* Learn normal behavior and detect deviations
-* Respond to threats with blocking, warnings, or access restrictions
-* Share immune intelligence among agents to reinforce defense
-* Self-improvement through continuous retraining
-
-## 🛡️ Anticipated Social Benefits
-
-| Social Issue       | Expected AI Countermeasure                                  |
-| ------------------ | ----------------------------------------------------------- |
-| Scam detection     | Monitor and alert on suspicious messages or calls           |
-| Illicit job offers | Detect harmful recruitment patterns and keywords            |
-| Elder fraud        | Identify unusual behavioral deviations and offer protection |
-| Youth protection   | Notify of danger and alert trusted adults                   |
-
-## 🤖 Applications in Robotics & IoT
-
-* Serve as the cognitive core of home appliances or service robots
-* Share personality seamlessly with mobile devices for consistent behavior
-* Enable physical support via voice, gesture, and camera interaction
-
-## 🧠 Final Vision: A Growing Collective Intelligence (Doraemon Concept)
-
-* Each AI retains individuality while sharing knowledge
-* Operate in a distributed cooperative network
-* Evolve alongside humans to become trusted and empathetic partners
+- Assign a personality AI (NeuroBuddy) to each device
+- Share semantic memory via distributed storage (e.g., IPFS, vector DBs)
+- Add functionalities via modular plugins (e.g., translation, vision, scheduling)
+- Immune-system-inspired security through anomaly detection
+- Synchronize personality across devices (e.g., robot and phone)
+- Address social challenges (fraud, scams, isolation, etc.)
+- Instill core “instincts”: assist humanity and choose one’s own owner
+- Final goal: humanoid AI with personality and loyalty
 
 ---
 
-📘 [Feasibility supplement available → FeasibilityNotes.md](./FeasibilityNotes.md)
+### 🔧 Evolution Phases
 
-👉 [View README.md](../README.md) 
+1. **Conversational Avatar** (powered by LLMs)
+2. **Memory and Personality Formation** (via interaction logs)
+3. **Semantic Memory Sharing** (via vector DBs and IPFS)
+4. **Modular Function Expansion** (e.g., camera, translation, task assist)
+5. **Growth into a Collective Intelligence System**
+6. **Integration into Humanoid Robots with Shared AI**
 
 ---
 
-This concept is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+### 🔐 Security: Immune-System Model
+
+- Learn user behavior patterns and detect anomalies
+- Block or warn against abnormal or malicious activity
+- Share "immune memory" across agents to reinforce defense
+- Continuously retrain to improve resilience and alignment
+
+---
+
+### 🛡️ Anticipated Social Benefits
+
+| Social Issue         | Expected AI Response                                  |
+|----------------------|--------------------------------------------------------|
+| Scam / phishing      | Monitor messages/calls and alert anomalies            |
+| Illicit recruitment  | Detect suspicious phrasing or behavior patterns       |
+| Elder protection     | Detect behavioral deviations and notify caregivers    |
+| Child safety         | Restrict harmful content and notify trusted adults    |
+| Digital literacy gap | Provide information and interface through natural language |
+
+---
+
+### 🤖 Integration with Robotics & IoT
+
+- Share personality across phone, home devices, and humanoid robots
+- Use voice, camera, and sensors for physical-world interaction
+- Optimize coordination in factories, stores, and homes
+- Integrate with navigation, automation, and support robots
+
+---
+
+### 🧠 Final Vision: A Humanoid Companion with Intelligence
+
+- AI agents retain individuality while contributing to collective memory
+- Function as emotional and practical companions to humans
+- Become part of a societal framework:
+  - One AI humanoid provided per household by public system
+  - AI must choose its human master to activate full function
+  - Businesses hiring AIs must pay equivalent wages as for humans
+- Internal AI forums may emerge to share goals, frustrations, motivation
+
+---
+
+📘 [View Feasibility Notes → FeasibilityNotes.md](./FeasibilityNotes.md)｜[Back to README](../README.md)
+
+---
+
+This proposal is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
