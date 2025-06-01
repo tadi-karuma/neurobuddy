@@ -125,7 +125,14 @@ This proposal is intended to share ideas and does not include implementation pla
 
 - [SUMMARY (English)](./SUMMARY.md)｜[日本語サマリー](./docs/SUMMARY_ja.md)
 - [Documentation Top / ドキュメントトップ](./docs/index.md)
+---
 
+## 💬 Join the Discussion / 議論に参加する
+
+We welcome your thoughts, feedback, and proposals. Feel free to contribute ideas or join ongoing threads on GitHub Discussions.  
+この構想に関するご意見・提案・議論への参加を歓迎します。GitHub Discussionsで自由に参加・発言ください。
+
+👉 [Go to Discussions](https://github.com/tadi-karuma/neurobuddy/discussions)
 ---
 
 ## 📝 ライセンス / License
