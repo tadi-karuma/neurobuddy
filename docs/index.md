@@ -54,6 +54,12 @@ Applications across health, education, industry, IoT, and daily life.
 
 ---
 
+## 💬 Join the Discussion / 議論に参加する
+
+- [Go to GitHub Discussions](https://github.com/tadi-karuma/neurobuddy/discussions)  
+- [Discussionsページへ移動](https://github.com/tadi-karuma/neurobuddy/discussions)
+---
+
 ## 🎯 Who is this for? / 本構想が響く読者
 
 - 実装よりも未来像を重視する創造的な思考者  
