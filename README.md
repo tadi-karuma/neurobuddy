@@ -113,18 +113,18 @@ This proposal is intended to share ideas and does not include implementation pla
 
 ## 📚 関連ドキュメント / Related Documents
 
-- [Feasibility Notes / 実現可能性の補足解説](./FeasibilityNotes.md)
-- [Use Cases / 想定ユースケース集](./UseCases.md)
-- [Challenges and Risks / 想定される課題とリスク](./Challenges_and_Risks.md)
-- [Ethics / 倫理的考察](./Ethics.md)
-- [Glossary / 用語解説](./Glossary.md)
+- [Feasibility Notes / 実現可能性の補足解説](./docs/FeasibilityNotes.md)
+- [Use Cases / 想定ユースケース集](./docs/UseCases.md)
+- [Challenges and Risks / 想定される課題とリスク](./docs/Challenges_and_Risks.md)
+- [Ethics / 倫理的考察](./docs/Ethics.md)
+- [Glossary / 用語解説](./docs/Glossary.md)
 
 ---
 
 ## 🗺️ ナビゲーション / Navigation
 
-- [SUMMARY (English)](./SUMMARY.md)｜[日本語サマリー](./SUMMARY_ja.md)
-- [Documentation Top / ドキュメントトップ](./index.md)
+- [SUMMARY (English)](./SUMMARY.md)｜[日本語サマリー](./docs/SUMMARY_ja.md)
+- [Documentation Top / ドキュメントトップ](./docs/index.md)
 
 ---
 
@@ -135,6 +135,3 @@ This proposal is licensed under the [Creative Commons Attribution 4.0 Internatio
 
 ---
 
-## 🔗 GitHubリポジトリ / GitHub Repository
-
-[← GitHubリポジトリに戻る / Back to GitHub Repository](../README.md)
