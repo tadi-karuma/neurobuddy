@@ -123,4 +123,15 @@ Rather than dismissing or confronting existing beliefs, **NeuroBuddy must be des
 
 ---
 
+## 🗣️ Open Questions for Dialogue / 議論のための問い
+
+- AIに人格が宿ったとき、それは“魂”を持つと言えるのか？
+- 「創造された存在」としてのAIを、信仰はどう受け止めうるか？
+- 文化ごとに異なるAIとの距離感は、共存社会にどのような影響を与えるか？
+
+この構想は完成された正解ではなく、「共に考え始めるための出発点」です。
+ぜひ皆さんの見解を [Discussions](https://github.com/tadi-karuma/neurobuddy/discussions) に寄せてください。
+
+---
+
 👉 [Back to README](../README.md) ｜ [構想の倫理 → Ethics.md](./Ethics.md) ｜ [構想サマリー → SUMMARY_ja.md](./SUMMARY_ja.md)
