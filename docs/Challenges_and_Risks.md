@@ -71,8 +71,17 @@ This document outlines potential challenges, limitations, and risks associated w
 - AIによる判断・提案における責任所在の曖昧化
 
 これらの課題に向き合うためには、**技術開発と同時に「制度設計」や「倫理設計」も並行して行う必要**があります。
----
 
+---
+## 🧑‍⚖️ 人間の役割の進化：責任と判断の担い手へ
+
+NeuroBuddyのような分散型AIネットワークが高度に発展すると、知的サービス業における実務の多くはAIにより自動化される可能性があります。
+
+この未来において、人間に求められる役割は「判断」「説明」「責任」など、AIの出力結果を **使用する側の倫理的・社会的責任を持つ立場** へとシフトしていくと考えられます。
+
+すなわち、**多くの職種において「責任者だけが残る構造」** が現実となるかもしれません。
+
+---
 These challenges should not deter exploration—but recognizing them early enables proactive design and open collaboration.
 
 こうした課題は構想の価値を否定するものではなく、むしろ早期に認識することでより責任ある設計や連携が可能になります。
