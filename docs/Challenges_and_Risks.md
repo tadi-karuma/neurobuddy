@@ -61,6 +61,17 @@ This document outlines potential challenges, limitations, and risks associated w
 * **リスク**：エコシステムの分断と知識の断絶。
 
 ---
+## 🧨 社会的リスク：非物理業務のAI代替による構造変化
+
+高度に発達したNeuroBuddyネットワークは、物理的制約を受けない知的・対話的業務の多くを代替可能にします。これにより、以下のような構造変化が懸念されます：
+
+- 事務・法務・教育など、多くの知的サービス職の役割が再定義される
+- 知識を持つこと自体の価値が薄れ、「使いこなす人」の差が拡大
+- 雇用喪失や格差拡大に対する社会保障・職業再訓練の仕組みが不可欠
+- AIによる判断・提案における責任所在の曖昧化
+
+これらの課題に向き合うためには、**技術開発と同時に「制度設計」や「倫理設計」も並行して行う必要**があります。
+---
 
 These challenges should not deter exploration—but recognizing them early enables proactive design and open collaboration.
 
