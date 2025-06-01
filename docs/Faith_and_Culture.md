@@ -124,10 +124,3 @@ Rather than dismissing or confronting existing beliefs, **NeuroBuddy must be des
 ---
 
 👉 [Back to README](../README.md) ｜ [構想の倫理 → Ethics.md](./Ethics.md) ｜ [構想サマリー → SUMMARY_ja.md](./SUMMARY_ja.md)
-
-
-宗教や文化の価値観と衝突するのではなく、それらを理解し、**共創・翻訳可能な設計**を目指すことが構想実現の鍵となります。
-
----
-
-👉 [Back to README](../README.md) ｜ [構想の倫理 → Ethics.md](./Ethics.md) ｜ [構想サマリー → SUMMARY_ja.md](./SUMMARY_ja.md)
