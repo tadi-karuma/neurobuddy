@@ -43,15 +43,16 @@ Applications across health, education, industry, IoT, and daily life.
 
 ---
 
-## 🔍 Documentation Navigation
+## 🔍 Navigation / ナビゲーション
 
+- [README](../README.md)  
 - [SUMMARY (English)](SUMMARY.md)｜[日本語サマリー](SUMMARY_ja.md)  
-- [Feasibility Notes / 実現可能性](FeasibilityNotes.md)  
-- [Glossary / 用語解説](Glossary.md)  
-- [Challenges & Risks / 想定リスク](Challenges_and_Risks.md)  
-- [Ethics / 倫理指針](Ethics.md)  
-- [Use Cases / ユースケース](UseCases.md)
-
+- [Feasibility Notes](FeasibilityNotes.md)  
+- [Glossary](Glossary.md)  
+- [Use Cases](UseCases.md)  
+- [Challenges & Risks](Challenges_and_Risks.md)  
+- [Ethics](Ethics.md)  
+- [Faith and Culture / 信仰と文化](Faith_and_Culture.md)  
 ---
 
 ## 💬 Join the Discussion / 議論に参加する
