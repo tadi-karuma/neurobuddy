@@ -77,7 +77,7 @@ NeuroBuddy は、各端末に人格を持たせ、分散ストレージを通じ
 ## 💬 Join the Discussion / 議論に参加する
 
 Questions or thoughts?  
-[→ GitHub Discussions](https://github.com/your-username/neurobuddy/discussions)
+[→ GitHub Discussions](https://github.com/tadi-karuma/neurobuddy/discussions)
 
 ---
 
