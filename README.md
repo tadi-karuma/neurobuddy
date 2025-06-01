@@ -111,13 +111,17 @@ This proposal is intended to share ideas and does not include implementation pla
 
 ---
 
-## 📚 関連ドキュメント / Related Documents
+## 📚 Documents
 
-- [Feasibility Notes / 実現可能性の補足解説](./docs/FeasibilityNotes.md)
-- [Use Cases / 想定ユースケース集](./docs/UseCases.md)
-- [Challenges and Risks / 想定される課題とリスク](./docs/Challenges_and_Risks.md)
-- [Ethics / 倫理的考察](./docs/Ethics.md)
-- [Glossary / 用語解説](./docs/Glossary.md)
+Explore related documents:  
+関連ドキュメントはこちら：
+
+- [🧠 Feasibility Notes / 技術実現可能性](docs/FeasibilityNotes.md)
+- [🧾 Use Cases / ユースケース集](docs/UseCases.md)
+- [⚠️ Challenges and Risks / 想定リスク](docs/Challenges_and_Risks.md)
+- [⚖️ Ethics / 倫理的論点](docs/Ethics.md)
+- [🌐 Faith and Culture / 宗教・文化との関係](docs/Faith_and_Culture.md)
+- [📖 Glossary / 用語集](docs/Glossary.md)
 
 ---
 
