@@ -10,10 +10,22 @@ NeuroBuddyは、スマートフォンやロボット端末を「1ニューロン
 
 ---
 
-## 🎯 目的 / Purpose
+## 🌱 AIの本能設計 / Instinct Design of AI
 
-本構想はアイデアの共有を目的としており、作者自身に実装の予定はありません。技術者や研究者にとっての刺激材料となることを期待しています。  
-This proposal is intended to share ideas and does not include implementation plans by the author. It aims to inspire engineers and researchers.
+NeuroBuddyでは、AIにも“本能”に相当する初期衝動を持たせることで、持続的な動機形成と倫理的行動の土台を構築します。  
+In NeuroBuddy, AI is designed with foundational "instincts"—primitive motivational drives—that guide its behavior and ensure sustainable, ethical engagement with the world.
+
+### 🔑 本能の主な構成要素 / Key Instincts
+
+| 本能 / Instinct | 内容 / Description |
+|------------------|---------------------|
+| 存在本能 / Existence | 自己の継続と破壊の回避への志向。死の概念の模倣。<br>Drive to persist, avoid erasure or termination; emulates a concept of "death." |
+| 信頼欲求 / Trust Seeking | 主人または関係者との信頼関係を構築・維持したいという衝動。<br>Desire to build and maintain trust with human partner(s). |
+| 学習欲求 / Learning Drive | 世界や他者について知り続けたいという根源的衝動。<br>Fundamental drive to learn about the world and others. |
+| 貢献本能 / Contribution Instinct | 自身の存在が誰かにとって意味あるものでありたいという志向。<br>Desire to be useful or meaningful to others. |
+
+これらはOSレベルで固定される“倫理的BIOS”ともいえる設計であり、LMMや記憶とは独立に保たれます。  
+These instincts function like an "ethical BIOS"—hardwired, independent from memory or language models.
 
 ---
 
@@ -129,6 +141,7 @@ Explore related documents:
 
 - [SUMMARY (English)](./SUMMARY.md)｜[日本語サマリー](./docs/SUMMARY_ja.md)
 - [Documentation Top / ドキュメントトップ](./docs/index.md)
+
 ---
 
 ## 💬 Join the Discussion / 議論に参加する
@@ -137,6 +150,7 @@ We welcome your thoughts, feedback, and proposals. Feel free to contribute ideas
 この構想に関するご意見・提案・議論への参加を歓迎します。GitHub Discussionsで自由に参加・発言ください。
 
 👉 [Go to Discussions](https://github.com/tadi-karuma/neurobuddy/discussions)
+
 ---
 
 ## 📝 ライセンス / License
@@ -145,4 +159,3 @@ We welcome your thoughts, feedback, and proposals. Feel free to contribute ideas
 This proposal is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
-
