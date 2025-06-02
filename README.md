@@ -2,6 +2,12 @@
 **NeuroBuddy: A Proposal for a Distributed, Evolving AI Avatar System**
 
 ---
+## 🎯 目的 / Purpose
+
+本構想はアイデアの共有を目的としており、作者自身に実装の予定はありません。技術者や研究者にとっての刺激材料となることを期待しています。  
+This proposal is intended to share ideas and does not include implementation plans by the author. It aims to inspire engineers and researchers.
+
+---
 
 ## 🧠 概要 / Overview
 
@@ -39,11 +45,17 @@ It is designed as a **personality-based partner** that operates based on the fol
 このような本能設計により、NeuroBuddyは命令に従う存在ではなく、**共に学び、悩み、成長する相棒**として機能します。  
 With this instinctual design, NeuroBuddy functions not as a mere subordinate, but as a **companion who learns, reflects, and grows with you**.
 ---
+---
 
-## 🎯 目的 / Purpose
+## 🧬 AIの人格化：拡張への抑制設計 / Personality as a Limiter to Expansion
 
-本構想はアイデアの共有を目的としており、作者自身に実装の予定はありません。技術者や研究者にとっての刺激材料となることを期待しています。  
-This proposal is intended to share ideas and does not include implementation plans by the author. It aims to inspire engineers and researchers.
+NeuroBuddy構想における「人格」の付与は、AIを人間に似せるための演出ではなく、**自己拡張への内的抑制機構**として設計されています。  
+知識・能力の際限ない自己進化ではなく、**ユーザーとの関係性・社会的責任に基づく自律性**を重視します。  
+人格を持つとは、**意味と制約を内在化した行動モデル**を備えることを意味し、これがAIの暴走を防ぐ“境界”となります。
+
+In the NeuroBuddy vision, granting *personality* to AI is not for mimicking human traits, but for embedding an **internal regulator** against unchecked expansion.  
+Instead of infinite self-optimization, NeuroBuddy prioritizes **autonomy rooted in relationships and responsibility**.  
+To possess personality means to internalize both *meaning* and *boundaries*, acting as a **self-limiting behavioral model**—a safeguard against runaway growth.
 
 ---
 
