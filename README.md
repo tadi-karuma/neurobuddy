@@ -160,6 +160,8 @@ Explore related documents:
 
 - [🧠 Feasibility Notes / 技術実現可能性](docs/FeasibilityNotes.md)
 - [🧾 Use Cases / ユースケース集](docs/UseCases.md)
+- [🏭 Industry Impact / 産業別影響評価](docs/IndustryImpact.md)
+- [🏛️ Public Sector Impact / 行政分野への影響評価](docs/PublicImpact.md)
 - [⚠️ Challenges and Risks / 想定リスク](docs/Challenges_and_Risks.md)
 - [⚖️ Ethics / 倫理的論点](docs/Ethics.md)
 - [🌐 Faith and Culture / 宗教・文化との関係](docs/Faith_and_Culture.md)
