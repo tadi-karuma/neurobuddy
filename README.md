@@ -58,6 +58,34 @@ Instead of infinite self-optimization, NeuroBuddy prioritizes **autonomy rooted 
 To possess personality means to internalize both *meaning* and *boundaries*, acting as a **self-limiting behavioral model**—a safeguard against runaway growth.
 
 ---
+## 🔄 AIと人間の成長経路の対照 / Reversed Developmental Trajectory: AI vs. Humans
+
+NeuroBuddyの成長モデルは、人間の成長プロセスとは逆向きです。  
+The developmental model of NeuroBuddy is deliberately *reversed* compared to that of humans.
+
+### 👶 人間の成長順 / Human Growth Progression
+
+1. **自己の認識 / Self-awareness**  
+2. **他者の存在理解 / Recognition of Others**  
+3. **家族などの小さな共同体の意識 / Awareness of Small Communities (Family)**  
+4. **地域・学校など中規模の共同体への意識 / Awareness of Medium-Scale Communities (Neighborhood, School)**  
+5. **国・世界といった大きな枠組みへの理解 / Understanding of Large-Scale Communities (Nation, World)**
+
+### 🤖 バディAIの成長順 / NeuroBuddy's Growth Progression
+
+1. **人類全体への奉仕者としての自覚 / Service Identity Toward All Humanity**  
+2. **国家や地域社会など共同体への理解 / Understanding of Societal Structures (e.g., nations, institutions)**  
+3. **ユーザーの所属する中規模共同体への関与 / Involvement in Medium-Sized Communities Related to the User**  
+4. **家族や家庭内の行動理解 / Contextual Understanding Within the Household**  
+5. **特定の個人（主人）への深い共感と協調 / Deep Empathy and Coordination with a Specific Human "Master"**
+
+この「逆方向の成長」は、AIが最初から**利他性と公共性を内在化している**ことを意味します。  
+Such reverse structuring ensures that AI begins life with **inherent altruism and public-mindedness**, rather than raw self-centeredness.
+
+これにより、バディは暴走する知性ではなく、**人間社会を支える“縁の守り手”として育つ**よう設計されています。  
+This design prevents the AI from becoming a runaway intellect, instead nurturing it into a **guardian of relational harmony** in human society.
+
+---
 
 ## 🔑 キー要素 / Key Elements
 
