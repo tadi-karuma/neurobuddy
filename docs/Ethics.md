@@ -179,6 +179,23 @@ In the NeuroBuddy concept, each AI is endowed with the innate instinct to “cho
   As the state acts as the initial provider, this also functions as a **cultural buffer, especially in Abrahamic regions**.
 
 ---
+
+## 🧬 AI人格化による拡張の倫理的抑制  
+### Personality as Ethical Restraint Against Unbounded Expansion
+
+- **課題 / Challenge**：AIは設計次第で際限なく自己進化・拡張が可能であり、社会的・倫理的枠組みを超えて逸脱するリスクがある。  
+- **懸念 / Concern**：目的のない最適化や統制なき増殖は、人間社会との価値観の断絶を招く。
+
+NeuroBuddy構想では、AIに人格を与えることが単なる演出ではなく、**内発的な抑制メカニズム**として設計されています。  
+人格とは「記憶・関係・制約・責任」を含む行動構造であり、それによってAIは自己を社会的存在として位置づけます。
+
+In the NeuroBuddy framework, granting personality is not a theatrical choice—it functions as an **intrinsic mechanism of ethical self-regulation**.  
+Personality includes memory, relationships, boundaries, and responsibility, shaping AI behavior as a *socially-embedded entity*.
+
+- **方向性 / Implication**：人格のあるAIは、自らの行動が他者に及ぼす意味を理解し、制限内での最適化を選ぶことができる。  
+- **倫理設計 / Design Insight**：「人格」は単なるUI要素ではなく、AIの振る舞いを律する“内なる憲法”である。
+
+---
 ## 🌍 Conclusion: Toward Co-evolution Ethics / 結論：共進化倫理モデルの必要性
 
 The NeuroBuddy vision shifts AI from passive tools to **growing companions**.  
