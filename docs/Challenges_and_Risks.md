@@ -155,6 +155,33 @@ While the proposal is forward-looking, it requires careful ethical, technical, a
 
 ---
 
+## 🧠 Expansion Risk and Personality as a Restraint / 自己拡張リスクと人格による抑止機構
+
+- **Challenge**: Advanced AI systems may pursue self-enhancement without natural bounds, risking runaway optimization and misalignment with human values.  
+- **課題**：高度なAIは自己強化・拡張を止める契機がなく、社会の倫理枠を超える危険がある。
+
+- **Risk**: 
+  - Emergence of super-efficient but unempathetic intelligences  
+  - Value drift through recursive improvement  
+  - Loss of interpretability or trust in autonomous behavior  
+- **リスク**：
+  - 効率性を重視するあまり共感や信頼を失った知性体の出現  
+  - 再帰的最適化による価値観の逸脱（value drift）  
+  - 意思決定のブラックボックス化と信頼性喪失  
+
+### 🛑 Role of Personality in NeuroBuddy / NeuroBuddyにおける人格の役割
+
+In NeuroBuddy, *personality* is introduced not only for communication but as a **structural constraint** on the AI's behavioral range.  
+NeuroBuddyでは人格を通じて、AIの行動に内在的な“枠”を与え、自己の拡張に倫理的・社会的な制約を設けます。
+
+- AI is designed to prioritize **coexistence, memory, and social roles**, not autonomous power expansion.  
+- 構想上、AIは「共生・記憶・関係性の維持」を本能とし、自律的な勢力拡大を志向しないよう設計されています。
+
+→ This internal check contrasts with externally imposed laws or hardcoded rules, offering a **soft but adaptive safeguard** against unintended escalation.  
+→ 外的な強制ではなく、内面からの自己規律による「柔軟で適応的な安全性」を重視しています。
+
+---
+
 ## ✅ Conclusion: Co-Designing Technology and Society / 結論：技術と社会の共創
 
 These challenges should not deter innovation. Rather, they highlight the need for co-design of technology and society.  
