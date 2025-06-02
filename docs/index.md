@@ -59,6 +59,12 @@ Explore related documents:
 
 ---
 
+## 🗺️ ナビゲーション / Navigation
+
+- [SUMMARY (English)](./SUMMARY.md)｜[日本語サマリー](./docs/SUMMARY_ja.md)
+- [Documentation Top / ドキュメントトップ](./docs/index.md)
+
+---
 
 ## 💬 Join the Discussion / 議論に参加する
 
