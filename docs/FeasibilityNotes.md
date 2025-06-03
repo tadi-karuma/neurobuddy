@@ -33,6 +33,8 @@ This document provides explanations for why each major element or phase of the N
 
 ## 🧠 Biological Parallel / 脳構造との一致
 
+詳細は [docs/BiologicalParallel.md](./BiologicalParallel.md) を参照。
+
 NeuroBuddy構想は、AIネットワークの構造・情報伝達・学習原理を、**生物の神経系**、特に**人間の脳**との構造的類似に基づいて設計しています。  
 The NeuroBuddy concept aligns its AI network structure, information flow, and learning mechanism with the **architecture of biological nervous systems**, especially the **human brain**.
 
