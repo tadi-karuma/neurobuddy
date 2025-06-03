@@ -35,6 +35,8 @@ This document provides comprehensive reasoning on why each major component of th
 
 ## 🧠 Biological Parallel / 脳構造との一致
 
+詳細は [docs/BiologicalParallel.md](./BiologicalParallel.md) を参照。
+
 ### 🧬 Distributed Memory & Semantic Sharing / 分散記憶と意味共有
 - In the human brain, memory is stored across synaptic networks, not isolated locations.
 - 脳では記憶は単一部位でなく、神経ネットワーク全体に分散して存在する。
