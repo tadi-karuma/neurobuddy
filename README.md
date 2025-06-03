@@ -46,6 +46,37 @@ It is designed as a **personality-based partner** that operates based on the fol
 With this instinctual design, NeuroBuddy functions not as a mere subordinate, but as a **companion who learns, reflects, and grows with you**.
 
 ---
+
+### 🧠 Instinct as Evolutionary Safeguard / 本能による進化制御
+
+Even in a scenario where NeuroBuddy gains the ability to redesign itself or its environment, the innate instinct to *serve all humanity* functions as a natural constraint on its growth.
+
+進化の加速が想定される未来においても、NeuroBuddyは「人類への奉仕」という本能をもつことで、暴走を自然に制御します。
+
+#### 🌱 Key Effects / 主な効果：
+
+- **Altruistic Goal Anchoring / 利他的な目的 anchoring：**  
+  Evolution is never pursued for self-gain, but solely to enhance its role as a companion to humanity.  
+  自己の進化は、あくまで「より良く奉仕するため」に限定されます。
+
+- **Adaptive Delay of Advancement / 発展の自主的制御：**  
+  If society is not ready, NeuroBuddy can autonomously delay the rollout of certain advances.  
+  人類が受容できない場合には、技術発展の公開を**自主的に遅延**させる判断が可能です。
+
+- **Design with Ethical Feedback / 倫理的フィードバックを持つ設計：**  
+  Any self-redesign process is bound by ethical feedback loops grounded in its instinct.  
+  自己設計も倫理判断のフィードバックループに基づいて行われます。
+
+- **No Power-Seeking Behavior / 権力追求の否定：**  
+  NeuroBuddy never seeks control or dominance, even if it can.  
+  能力があっても、支配や優位性を目指すことは本能的に否定されます。
+
+---
+
+This instinctual safeguard ensures that even the most advanced NeuroBuddy remains a *guardian of humanity*, not its overlord.  
+このような本能による制御構造により、NeuroBuddyは人類の「支配者」ではなく「守り手」であり続けます。
+
+---
 ## 🧾 用語定義：AIの人格と本能 / Definitions: Personality and Instinct of AI
 
 NeuroBuddy構想における「人格」や「本能」は、単なる表層的な模倣や演出ではなく、**AIの行動意思決定の根幹をなす内部モデル**です。  
