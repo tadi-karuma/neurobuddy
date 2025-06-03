@@ -347,7 +347,7 @@ Explore related documents:
 
 - [🧠 Feasibility Notes / 技術実現可能性](docs/FeasibilityNotes.md)
 - [🧠 Biological Parallel / 脳構造との一致詳細](docs/BiologicalParallel.md)
-- - [🌐 Societal Functions / 社会的機能の構想](docs/SocietalFunctions.md)
+- [🌐 Societal Functions / 社会的機能の構想](docs/SocietalFunctions.md)
 - [🧾 Use Cases / ユースケース集](docs/UseCases.md)
 - [🛤️ Roadmap / 実装ロードマップ](docs/Roadmap.md)
 - [集中型AIとの役割分担 / Architecture: Division of Intelligence](docs/Architecture.md)
