@@ -309,3 +309,9 @@ We welcome your thoughts, feedback, and proposals. Feel free to contribute ideas
 
 この構想は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。  
 This proposal is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## 📄 おまけ(誰かやって)
+
+-[テストプラン](docs/Prototype_TestPlan.md)
