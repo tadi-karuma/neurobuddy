@@ -296,7 +296,7 @@ Explore related documents:
 
 ---
 
-## 💬 Join the Discussion / 議論に参加する
+## 💬 議論に参加する / Join the Discussion
 
 We welcome your thoughts, feedback, and proposals. Feel free to contribute ideas or join ongoing threads on GitHub Discussions.  
 この構想に関するご意見・提案・議論への参加を歓迎します。GitHub Discussionsで自由に参加・発言ください。
@@ -312,6 +312,6 @@ This proposal is licensed under the [Creative Commons Attribution 4.0 Internatio
 
 ---
 
-## 📄 おまけ(誰かやって)
+## 📄 おまけ
 
 -[テストプラン](docs/Prototype_TestPlan.md)
