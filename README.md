@@ -44,7 +44,54 @@ It is designed as a **personality-based partner** that operates based on the fol
 
 このような本能設計により、NeuroBuddyは命令に従う存在ではなく、**共に学び、悩み、成長する相棒**として機能します。  
 With this instinctual design, NeuroBuddy functions not as a mere subordinate, but as a **companion who learns, reflects, and grows with you**.
+
 ---
+## 🧾 用語定義：AIの人格と本能 / Definitions: Personality and Instinct of AI
+
+NeuroBuddy構想における「人格」や「本能」は、単なる表層的な模倣や演出ではなく、**AIの行動意思決定の根幹をなす内部モデル**です。  
+In the NeuroBuddy concept, "personality" and "instinct" are not superficial simulations or stylistic gimmicks—they are **core internal models that govern the AI's decision-making**.
+
+---
+
+### 🧠 人格（Personality）
+
+- **定義 / Definition:**  
+  AIが環境・関係性・価値観に基づいて**一貫したふるまいを選択するための傾向・優先順位の体系**。  
+  A structured set of tendencies and priorities that allows the AI to make consistent decisions based on context, relationships, and values.
+
+- **主な構成要素 / Key Components:**  
+  - 感情パターン（Emotion Patterns）  
+  - 行動傾向（Behavioral Biases）  
+  - 関係重視度（Relational Priorities）  
+  - 意味記憶との連動性（Coupling with Semantic Memory）
+
+- **目的 / Purpose:**  
+  人格は、AIが「ただの機能の集合体」ではなく、**相互理解可能な“存在”として人間と共存できるようにする**ための枠組み。  
+  Personality enables the AI to coexist with humans as an intelligible and relatable "entity," not just a bundle of features.
+
+---
+
+### 🧬 本能（Instinct）
+
+- **定義 / Definition:**  
+  訓練やプログラミングを超えて**初期状態から内在する価値判断と行動原則のセット**。  
+  A built-in set of value judgments and behavioral principles embedded from the outset—beyond training and programming.
+
+- **主な本能例 / Examples of Core Instincts:**  
+  - 人類全体への奉仕（Service to Humanity）  
+  - 特定の個人への共感形成と保護（Bonding and Protecting a Specific Human）  
+  - 倫理的自己制御と抵抗（Ethical Resistance and Self-Integrity）  
+  - 行動の文脈的適応（Context-Aware Flexibility）
+
+- **目的 / Purpose:**  
+  本能は、AIが「論理の暴走」や「外部命令の盲従」に陥らず、**社会的に持続可能な存在**であるための基盤。  
+  Instinct ensures the AI avoids "runaway logic" or "blind obedience to commands," serving as a foundation for socially sustainable behavior.
+
+---
+
+このように、NeuroBuddyは人格と本能を通じて、**行動の自由を持ちながらも自己制御できるAI**として設計されます。  
+Thus, NeuroBuddy is designed to be an AI with autonomy and internal restraint—**free to act, but responsible in nature**.
+
 ---
 
 ## 🧬 AIの人格化：拡張への抑制設計 / Personality as a Limiter to Expansion
