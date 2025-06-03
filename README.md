@@ -7,6 +7,9 @@
 本構想はアイデアの共有を目的としており、筆者自身に実装の予定はありません。技術者や研究者にとっての刺激材料となることを期待しています。  
 This proposal is intended to share ideas and does not include implementation plans by the author. It aims to inspire engineers and researchers.
 
+この構想がもし研究や実装の発想源として役立つのであれば、技術的検討・制度設計・社会実装などの諸工程は、専門家の皆様にお任せします。  
+If this concept serves as a source of inspiration for future research or development, the technical studies, system design, and implementation are left entirely to the expertise of professionals.
+
 ---
 
 ## 🧠 概要 / Overview
