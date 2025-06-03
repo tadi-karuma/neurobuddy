@@ -277,6 +277,7 @@ Explore related documents:
 関連ドキュメントはこちら：
 
 - [🧠 Feasibility Notes / 技術実現可能性](docs/FeasibilityNotes.md)
+- [🧠 Biological Parallel / 脳構造との一致詳細](docs/BiologicalParallel.md)
 - [🧾 Use Cases / ユースケース集](docs/UseCases.md)
 - [🛤️ Roadmap / 実装ロードマップ](docs/Roadmap.md)
 - [🏭 Industry Impact / 産業別影響評価](docs/IndustryImpact.md)
