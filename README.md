@@ -465,6 +465,7 @@ Explore related documents:
 - [🧠 Feasibility Notes / 技術実現可能性](docs/FeasibilityNotes.md)
 - [🧠 Biological Parallel / 脳構造との一致詳細](docs/BiologicalParallel.md)
 - [🌐 Societal Functions / 社会的機能の構想](docs/SocietalFunctions.md)
+- [🌐 Social Integration / 社会実装シナリオ](docs/Social_Integration.md)
 - [💰 Tax and Ethics / 税と倫理](docs/TaxAndEthics.md)
 - [🧾 Use Cases / ユースケース集](docs/UseCases.md)
 - [🛤️ Roadmap / 実装ロードマップ](docs/Roadmap.md)
