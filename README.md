@@ -4,7 +4,7 @@
 ---
 ## 🎯 目的 / Purpose
 
-本構想はアイデアの共有を目的としており、作者自身に実装の予定はありません。技術者や研究者にとっての刺激材料となることを期待しています。  
+本構想はアイデアの共有を目的としており、筆者自身に実装の予定はありません。技術者や研究者にとっての刺激材料となることを期待しています。  
 This proposal is intended to share ideas and does not include implementation plans by the author. It aims to inspire engineers and researchers.
 
 ---
