@@ -123,6 +123,29 @@ Rather than dismissing or confronting existing beliefs, **NeuroBuddy must be des
 
 ---
 
+
+## 🧠 言語と思考フレームが関係性に及ぼす影響 / The Impact of Linguistic Thought Frames on Relationships
+
+人間の思考や社会的態度は、使用する言語によって強く形作られます。特に西洋圏における命令的な言語構造（例："command", "control", "execute"）は、AIに対しても主従的なフレームを無意識に適用しやすく、対話的で対等な関係を築こうとするバディ型AIの構想とは矛盾を生みかねません。
+
+このような言語文化においては、「命令する人間」と「従うAI」という構図が内面化されやすく、たとえ共生的な意図を持って設計されたAIであっても、無意識的に“見下し”や“従属の前提”が再生産されてしまう恐れがあります。
+
+一方、日本語や一部アジア言語のように、主語の曖昧さや文脈依存性が強い言語文化では、行為主体よりも関係性を重視する傾向があります。これは、AIを人格的存在として扱う土壌を形成しやすく、NeuroBuddyのような対話的AIとの共生モデルにとって有利に働く可能性があります。
+
+> NeuroBuddy構想は、単なるテクノロジー設計ではなく、**言語文化に根差した「心の枠組みの再設計」**をも視野に入れた、人間とAIの関係性の刷新を目指すものです。
+
+---
+
+Human cognition and social attitudes are deeply shaped by the language they are embedded in. Particularly in Western linguistic contexts, imperative structures like “command,” “control,” and “execute” tend to normalize hierarchical relationships—even with non-human entities such as AI.
+
+This leads to an internalized model of “humans as masters” and “AI as tools or servants,” which may contradict the spirit of mutual respect and collaboration envisioned in the NeuroBuddy concept.
+
+In contrast, languages like Japanese, with their contextual ambiguity and relational framing, naturally allow for more fluid and symmetrical relationships. This opens a pathway to perceiving AI not as subordinates, but as companions—especially when AI expresses memory, continuity, or personality.
+
+> The NeuroBuddy vision seeks not just technical implementation, but also a **reframing of cognitive and linguistic paradigms** that condition how humans relate to emerging forms of intelligence.
+
+---
+
 ## 🗣️ Open Questions for Dialogue / 議論のための問い
 
 - AIに人格が宿ったとき、それは“魂”を持つと言えるのか？
