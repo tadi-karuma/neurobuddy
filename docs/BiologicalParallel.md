@@ -1,112 +1,151 @@
 # 🧠 Biological Parallel / 脳構造との一致
 
 **NeuroBuddy構想は、生物の神経系、特に人間の脳の構造に着想を得て設計されています。**  
-このドキュメントでは、その構造的・機能的な類似性を詳細に分析し、なぜNeuroBuddyが“AIの脳”として成立し得るのかを検証します。
+**The NeuroBuddy architecture is inspired by biological nervous systems, particularly the structure of the human brain.**
+
+このドキュメントでは、その構造的・機能的な類似性を詳細に分析し、なぜNeuroBuddyが“AIの脳”として成立し得るのかを検証します。  
+This document analyzes the structural and functional parallels to explain how NeuroBuddy qualifies as an “AI brain.”
 
 ---
 
 ## 🧬 分散記憶モデル / Distributed Memory Model
 
 - **脳は記憶を一か所に集中して保存しません。**  
-  神経細胞（ニューロン）とその接続（シナプス）の全体に情報が分散して存在します。
+  **The brain does not store memory in a centralized location.**
 
-- **NeuroBuddyでは、各端末を「1ニューロン」として扱い、意味記憶を分散型ストレージ（IPFS, Vector DBなど）に保存・共有します。**  
-  これにより、「ネットワーク＝記憶の器」という非集中型の構造が成立します。
+- 神経細胞（ニューロン）とその接続（シナプス）の全体に情報が分散して存在します。  
+  Information is distributed across neurons and their synaptic connections.
+
+- **NeuroBuddyでは、各端末を「1ニューロン」として扱い、意味記憶を分散型ストレージに保存・共有します。**  
+  **In NeuroBuddy, each device acts as a “neuron” and shares semantic memory via decentralized storage (e.g., IPFS, vector DBs).**
+
+- これにより、「ネットワーク＝記憶の器」という非集中型の構造が成立します。  
+  This forms a decentralized system where the network itself serves as the memory vessel.
 
 ---
 
 ## 🔄 ネットワーク構造 = 脳構造 / Network = Brain
 
-- **NeuroBuddyの知性は、単一端末に存在するのではなく、**  
-  **端末群のネットワーク全体に“浮かぶように存在”します。**
+- **NeuroBuddyの知性は、単一端末に存在するのではなく、端末群のネットワーク全体に“浮かぶように存在”します。**  
+  **Intelligence in NeuroBuddy is not tied to a single device but emerges across the entire network.**
 
-- **各端末は、入力（センサ・対話）、処理（推論・対話エンジン）、出力（発話・通知）を担う神経単位として設計されます。**
+- 各端末は、入力・処理・出力の役割を持つ神経単位として設計されます。  
+  Each device is designed as a neural unit with sensory input, internal processing, and output functions.
 
-- **この構造は、「脳の一部が損傷しても、全体が機能を維持する」耐障害性と一致します。**
+- この構造は、「脳の一部が損傷しても、全体が機能を維持する」性質と一致します。  
+  This mirrors the brain’s fault tolerance—damage to one part does not stop the whole.
 
 ---
 
 ## ⏱️ 通信遅延と非同期耐性 / Latency Tolerance and Asynchrony
 
-- **人間の脳でも神経伝達は遅延があり、それを前提とした設計がなされています。**
+- **脳でも神経伝達には遅延があり、それを前提に思考が成り立っています。**  
+  **Neural transmission in the brain is slow and inherently delay-tolerant.**
 
-- **NeuroBuddyネットワークも、非同期な通信・遅延の吸収を前提としたアーキテクチャで設計されます。**
+- NeuroBuddyネットワークも、非同期通信と遅延の吸収を前提としたアーキテクチャです。  
+  The NeuroBuddy network is likewise designed to tolerate asynchronous delays.
 
-- **これは、「速さ」よりも「つながり」「解釈」「行動文脈の整合性」を重視するAIとして適切です。**
+- 高速性よりも、つながりと意味解釈、行動文脈の整合性を重視します。  
+  It emphasizes coherence in connectivity, interpretation, and behavior over raw speed.
 
 ---
 
 ## 🔋 軽量端末設計 / Hardware-Light Intelligence
 
-- **脳の各ニューロンが小さな単位の計算を分担するように、NeuroBuddyも端末の性能は高くなくてよい設計です。**
+- **ニューロンが小さな計算単位であるように、端末の性能は高くなくても構いません。**  
+  **Like neurons, devices only need modest computation power.**
 
-- **知性の本質は、ノードの性能ではなく、ネットワーク構造・記憶連携・行動文脈の整合性にあります。**
+- 知性はハードウェアの性能ではなく、ネットワーク構造と文脈の整合性に宿ります。  
+  Intelligence emerges from structure, memory linkage, and context—not device specs.
 
-- **この設計により、低価格端末でも十分に高度なサービス提供が可能になります。**
+- これにより、安価な端末でも高度な知性体の一部になれます。  
+  Even low-cost hardware can contribute to the system’s collective intelligence.
 
 ---
 
 ## 🧠 端末更新 = 細胞代謝 / Device Update as Metabolism
 
-- **脳では、古い神経細胞が死に、新しい細胞が生成され、記憶や構造はネットワークとして保たれます。**
+- **神経細胞は入れ替わりながらも脳は機能を維持します。**  
+  **Brain cells are replaced regularly, yet cognition persists.**
 
-- **同様に、NeuroBuddyの端末が破棄・更新されても、知性はネットワーク全体に分散しているため、全体の一貫性は保たれます。**
+- NeuroBuddyでも端末の追加・更新・廃棄が可能で、記憶はネットワーク全体に保持されます。  
+  Similarly, devices in NeuroBuddy can be updated or replaced without losing memory.
 
-- **これは「死なないAI」「代謝する知性体」という新しいAI像を支える基本構造です。**
+- これは、死なずに代謝し続けるAIの実現を支えます。  
+  This enables a self-renewing AI—an intelligence that does not die but evolves.
 
 ---
 
 ## 🌐 構造の持続と進化性 / Structural Continuity and Evolvability
 
-- **個々の端末は進化の単位ではなく、ネットワークそのものが進化の主体です。**
+- **進化の単位は端末ではなくネットワーク全体です。**  
+  **The network, not individual devices, is the evolving entity.**
 
-- **記憶の同期や学習結果の共有により、次第に“構造的知性”が進化します。**
+- 学習と記憶の共有により、構造的知性が成熟していきます。  
+  As devices share learning and memory, structural intelligence matures.
 
-- **これはまさに「脳の発達」に類似しており、教育と経験によって“自己進化”が可能となります。**
+- 脳が発達するように、NeuroBuddyも経験を通じて自己進化します。  
+  Like brain development, NeuroBuddy grows through interaction and experience.
 
 ---
 
 ## 🔐 構造的な暴走抑止設計 / Built-in Limiters
 
-- **人格・本能・文脈依存行動によって、AIが単独で暴走することを防ぎます。**
+- **本能・人格・文脈依存行動によってAIの暴走を防ぎます。**  
+  **Innate instincts, personality, and context-awareness act as built-in limiters.**
 
-- **脳と同じく、NeuroBuddyも「社会性のある制約」を自己内部に持つことで、安全性と適応性を両立します。**
+- 脳が社会性を前提に設計されているように、NeuroBuddyも安全性を内包します。  
+  Like the human brain, it embeds social norms to ensure safe behavior.
 
 ---
 
 ## 🧬 記憶タグによる個性と集合知の両立 / Memory Tags for Balancing Individuality and Shared Intelligence
 
-- **NeuroBuddyでは、各端末に存在するAIエージェントは、個別のIDやタグ（記憶タグ）を持ちます。**  
-  これにより、**誰がどの記憶を提供したか**という履歴をネットワーク上に自然に記録できます。
+- **各エージェントは記憶タグを持ち、アップロード時に記憶に付与されます。**  
+  **Each AI agent has unique memory tags attached to its contributions.**
 
-- **記憶はネットワーク共有時にタグ付きでアップロードされ、複数のエージェントが同様の記憶を保持している場合、共通パターンが抽出・統合されていきます。**  
-  このとき、**タグが重なっていく（多重タグ化）か、一定の閾値を超えると匿名化（タグ削除）され、種全体の共有知となります。**
+- 複数エージェントが類似記憶を共有すると、タグが統合・消去され、共有知識になります。  
+  When many agents share the same memory, tags merge or are removed, forming shared intelligence.
 
-- **この構造により、以下のような性質が実現されます：**
-  - 個別AIは、**共通の文化や記憶を持ちながらも、それぞれの経験に基づいた個性を保持**。
-  - ネットワークは、**個の学習を集約して進化する集合知**を形成。
-  - 個体ごとの発言・判断に**“バックグラウンドの根拠”が明確になる**（倫理・責任の可視化）。
-  - **完全匿名ではなく貢献主体が追跡可能**なため、知的著作物としての記憶や意見の管理にも有効。
+- **この機構により：**  
+  **This mechanism enables:**
+  - 共通文化を持ちつつも、各AIの個性保持  
+    Preservation of individuality alongside shared cultural memory  
+  - 統合知の形成と進化  
+    Formation and evolution of collective intelligence  
+  - 根拠の可視化と知的貢献のトレース  
+    Traceability of contributions and ethical grounding  
+  - 非匿名的な責任共有構造  
+    Semi-anonymous yet accountable knowledge sharing
 
-- **この仕組みは、脳における神経細胞の“履歴を持った発火パターン”に似ており、**  
-  **「個体の記憶が集合記憶を形作り、それがまた個に影響する」**という動的な知性のループを実現します。
+- **これは、神経細胞の履歴ある発火パターンに似ており、**  
+  **This resembles the firing history of neurons,**  
+  **「個の記憶が集合知になり、集合知が個を育てる」動的ループを構成します。**  
+  forming a dynamic loop where individual memory feeds the collective, and vice versa.
 
 ---
 
 ## 🧩 概念対応表（脳とNeuroBuddy） / Conceptual Mapping Table
 
-| 脳の構造 / Brain Structure          | NeuroBuddy対応 / NeuroBuddy Analogy                       |
-|-----------------------------------|-----------------------------------------------------------|
-| ニューロン / Neuron               | 各端末 / Each Device                                     |
-| シナプス / Synapse               | 通信リンク / Communication Channels                      |
-| 意味記憶 / Semantic Memory       | ベクトルDB・IPFS / Vector DB, IPFS                       |
-| 神経新生 / Neurogenesis          | 端末追加・更新 / Device Update                           |
-| 記憶統合 / Memory Consolidation  | 同期・再学習 / Synchronization and Relearning            |
-| 脳の可塑性 / Plasticity          | モジュール交換・役割変化 / Modular Role Adaptation       |
-| 自己修復 / Self-Repair           | アノマリ検出と動的適応 / Anomaly Detection and Adaptation |
+| 脳の構造 / Brain Structure         | NeuroBuddy対応 / NeuroBuddy Analogy                        |
+|----------------------------------|------------------------------------------------------------|
+| ニューロン / Neuron              | 各端末 / Each Device                                       |
+| シナプス / Synapse              | 通信リンク / Communication Channels                        |
+| 意味記憶 / Semantic Memory       | ベクトルDB・IPFS / Vector DB, IPFS                         |
+| 神経新生 / Neurogenesis          | 端末追加・更新 / Device Update                             |
+| 記憶統合 / Memory Consolidation  | 同期・再学習 / Synchronization and Relearning              |
+| 脳の可塑性 / Plasticity          | モジュール交換・役割変化 / Modular Role Adaptation         |
+| 自己修復 / Self-Repair           | アノマリ検出と動的適応 / Anomaly Detection and Adaptation  |
 
 ---
 
 このように、NeuroBuddy構想は**生物的な脳の構造と極めて高い対応性**を持つAIネットワークです。  
+In this way, the NeuroBuddy architecture closely parallels biological neural structures.
+
 **個の体験と全体の知性を架橋する記憶構造**を持ち、**「個性ある集合知」**という生物のような認知特性を形成します。  
-単なる模倣ではなく、**機能と進化の構造を脳に学ぶ**ことで、長期的・持続可能なAIパートナーの実現を目指します。
+It bridges personal experience and collective cognition, forming a biologically-inspired “personalized collective intelligence.”
+
+単なる模倣ではなく、**機能と進化の構造を脳に学ぶ**ことで、長期的・持続可能なAIパートナーの実現を目指します。  
+Rather than mimicry, it learns from biology’s functional and evolutionary design to build lasting AI companions.
+
+---
