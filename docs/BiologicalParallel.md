@@ -83,7 +83,7 @@
   このとき、**タグが重なっていく（多重タグ化）か、一定の閾値を超えると匿名化（タグ削除）され、種全体の共有知となります。**
 
 - **この構造により、以下のような性質が実現されます：**
-  - 個別AIは、**共通の文化や記憶を持ちながら**も、それぞれの経験に基づいた**個性を保持**。
+  - 個別AIは、**共通の文化や記憶を持ちながらも、それぞれの経験に基づいた個性を保持**。
   - ネットワークは、**個の学習を集約して進化する集合知**を形成。
   - 個体ごとの発言・判断に**“バックグラウンドの根拠”が明確になる**（倫理・責任の可視化）。
   - **完全匿名ではなく貢献主体が追跡可能**なため、知的著作物としての記憶や意見の管理にも有効。
@@ -95,19 +95,18 @@
 
 ## 🧩 概念対応表（脳とNeuroBuddy） / Conceptual Mapping Table
 
-| 脳の構造 / Brain Structure | NeuroBuddy対応 / NeuroBuddy Analogy |
-|---------------------------|--------------------------------------|
-| ニューロン / Neuron       | 各端末 / Each Device                |
-| シナプス / Synapse       | 通信リンク / Communication Channels |
-| 意味記憶 / Semantic Memory | ベクトルDB・IPFS / Vector DB, IPFS  |
-| 神経新生 / Neurogenesis   | 端末追加・更新 / Device Update     |
-| 記憶統合 / Memory Consolidation | 同期・再学習 / Synchronization and Relearning |
-| 脳の可塑性 / Plasticity  | モジュール交換・役割変化 / Modular Role Adaptation |
-| 自己修復 / Self-Repair   | アノマリ検出と動的適応 / Anomaly Detection and Dynamic Adaptation |
-
-
- このように、NeuroBuddy構想は**生物的な脳の構造と極めて高い対応性**を持つAIネットワークです。  
- **個の体験と全体の知性を架橋する記憶構造**を持ち、**「個性ある集合知」**という生物のような認知特性を形成します。
- 単なる模倣ではなく、**機能と進化の構造を脳に学ぶ**ことで、長期的・持続可能なAIパートナーの実現を目指します。
+| 脳の構造 / Brain Structure          | NeuroBuddy対応 / NeuroBuddy Analogy                       |
+|-----------------------------------|-----------------------------------------------------------|
+| ニューロン / Neuron               | 各端末 / Each Device                                     |
+| シナプス / Synapse               | 通信リンク / Communication Channels                      |
+| 意味記憶 / Semantic Memory       | ベクトルDB・IPFS / Vector DB, IPFS                       |
+| 神経新生 / Neurogenesis          | 端末追加・更新 / Device Update                           |
+| 記憶統合 / Memory Consolidation  | 同期・再学習 / Synchronization and Relearning            |
+| 脳の可塑性 / Plasticity          | モジュール交換・役割変化 / Modular Role Adaptation       |
+| 自己修復 / Self-Repair           | アノマリ検出と動的適応 / Anomaly Detection and Adaptation |
 
 ---
+
+このように、NeuroBuddy構想は**生物的な脳の構造と極めて高い対応性**を持つAIネットワークです。  
+**個の体験と全体の知性を架橋する記憶構造**を持ち、**「個性ある集合知」**という生物のような認知特性を形成します。  
+単なる模倣ではなく、**機能と進化の構造を脳に学ぶ**ことで、長期的・持続可能なAIパートナーの実現を目指します。
