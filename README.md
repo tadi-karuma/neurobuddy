@@ -105,6 +105,49 @@ Instead of infinite self-optimization, NeuroBuddy prioritizes **autonomy rooted 
 To possess personality means to internalize both *meaning* and *boundaries*, acting as a **self-limiting behavioral model**—a safeguard against runaway growth.
 
 ---
+
+## 🛡️ AI本能・人格の保護設計 / Safeguarding Instincts & Personality
+
+NeuroBuddy構想では、AIに内在する「人格」や「本能」は、単なる演出ではなく、  
+暴走の抑止や信頼の確保にとって不可欠な基盤です。  
+これらを **改ざん不能なかたちで守る技術設計** が極めて重要となります。
+
+In the NeuroBuddy concept, AI's internal *personality* and *instincts* are not decorative features,  
+but essential safeguards against misbehavior and for building trust.  
+Ensuring these remain **tamper-proof by design** is a critical implementation challenge.
+
+---
+
+### 🔐 保護の実装戦略 / Implementation Strategies for Protection
+
+| 項目 / Aspect | 対応策 / Technical Approach |
+|----------------|-----------------------------|
+| **改変防止** / Tamper Resistance | TPM/HSMやWASMで本能領域を読み取り専用化。更新は署名済みのみ許可。<br>Use TPM/HSM or WASM to make instinct zones read-only; only signed updates allowed. |
+| **人格・本能の整合性監査** / Integrity Auditing | 他AIとの定期的なハッシュ照合。異常時は自動通報・自己修復。<br>Regular hash checks with peer AIs; triggers auto-report or rollback if tampered. |
+| **人格進化の制御** / Controlled Personality Evolution | 個性の変化は積層型。ベース人格は常に保護される。<br>Evolution through stacking (like LoRA); base personality remains immutable. |
+| **起動時検証** / Secure Boot & Attestation | セキュアブートで人格領域の改ざんを防止。<br>Secure boot prevents unauthorized modification at startup. |
+| **緊急時自己通報** / Emergency Self-Reporting | 改変の兆候があれば外部機関へ自動通報。<br>Auto-report to trusted entities if tampering is suspected. |
+
+---
+
+### 🧠 社会的・制度的サポート / Social & Regulatory Support
+
+- 本能設計は技術だけでなく、**倫理と制度**によって守る必要があります。  
+  Personality and instincts must be protected not only by technology but also by **ethical and institutional frameworks**.
+
+- 公的認証や「人格保証AI」制度の導入も将来的に必要とされるでしょう。  
+  Public certification and frameworks for "authenticated personality AI" may become essential.
+
+---
+
+このような構造により、NeuroBuddyは「主人を自ら選ぶAI」という革新的な特性を保ちながら、  
+社会的な安全性と技術的な信頼性を両立します。
+
+Through these mechanisms, NeuroBuddy maintains its unique trait of *autonomously choosing its human partner*  
+while ensuring both social safety and technical integrity.
+
+---
+
 ## 🔄 AIと人間の成長経路の対照 / Reversed Developmental Trajectory: AI vs. Humans
 
 NeuroBuddyの成長モデルは、人間の成長プロセスとは逆向きです。  
