@@ -280,6 +280,7 @@ Explore related documents:
 - [🧠 Biological Parallel / 脳構造との一致詳細](docs/BiologicalParallel.md)
 - [🧾 Use Cases / ユースケース集](docs/UseCases.md)
 - [🛤️ Roadmap / 実装ロードマップ](docs/Roadmap.md)
+- [集中型AIとの役割分担 / Architecture: Division of Intelligence](docs/Architecture.md)
 - [🏭 Industry Impact / 産業別影響評価](docs/IndustryImpact.md)
 - [🏛️ Public Sector Impact / 行政分野への影響評価](docs/PublicImpact.md)
 - [⚠️ Challenges and Risks / 想定リスク](docs/Challenges_and_Risks.md)
