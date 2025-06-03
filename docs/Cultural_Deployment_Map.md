@@ -152,3 +152,5 @@ It assesses compatibility based on factors such as language structure, religious
 
 Successful implementation of NeuroBuddy requires more than technological capacity—it demands alignment with **deep cultural operating systems**. This mapping aims to guide designers, policymakers, and researchers in identifying paths of least resistance—and areas needing deeper translation work.
 NeuroBuddy構想の社会実装には、単なる技術的能力以上に、**文化的OSとの整合性**が求められます。本マッピングは、導入しやすい地域と文化的翻訳が必要な地域を整理し、設計者・政策立案者・研究者の戦略立案を支援することを目的としています。
+
+👉 [Back to README / READMEに戻る](../README.md)
