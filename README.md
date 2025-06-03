@@ -357,6 +357,7 @@ Explore related documents:
 - [⚠️ Challenges and Risks / 想定リスク](docs/Challenges_and_Risks.md)
 - [⚖️ Ethics / 倫理的論点](docs/Ethics.md)
 - [🌐 Faith and Culture / 宗教・文化との関係](docs/Faith_and_Culture.md)
+- [🌐 Cultural_Deployment_Map / 文化的展開可能性](docs/Cultural_Deployment_Map.md)
 - [📖 Glossary / 用語集](docs/Glossary.md)
 
 ---
