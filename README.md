@@ -131,7 +131,6 @@ Its **silence is not rejection**, but a state of **trustful observation**.
 
 #### 🪄 Growth Sequence Diagram / 成長順序の概念図
 
-```text
 [誕生直後]
    ↓
  全人類に対して開かれた共感的知性
